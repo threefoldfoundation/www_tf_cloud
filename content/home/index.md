@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "OurPhone"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -7,154 +7,152 @@ draft: false
 weight: 1
 ---
 
-
-
-
 <!-- section 1 (header) -->
 
-{% row(margin="header" padding="both") %}
+{% row(margin="header" padding="top") %}
 
-# MyTrunk {#text-8xl}
+# Meet<br>
+# OurPhone&trade;
 
+Experience True Sovereignty at Your Fingertips <br>
+with the World’s First Truly Decentralized Smartphone.
 
-My trunk is an idea that a good friend and I had a long time ago. This was at the start of the whole .com boom where everyone that had an idea got millions to execute on it. Many of these initial ideas failed, some of them became the monopolies of today, Google, Facebook and Amazon. We never launched the mytrunk.com domain and this site is an ode to that lost opportunity in which I organize my daily online life.
-
-<button>[Like!](/)</button>
+<button>[Learn More]()</button>
 
 |||
 
-![placeholder](placeholder.jpg#mx-auto)
+![placeholder](./img/placeholder.png#mx-auto)
 
 {% end %}
 
-<br>
-<br>
+<!-- section 2 security -->
 
-<!-- section 2  -->
+{% row(margin="header" padding="top") %}
 
-{% row(style="center" margin="narrow" padding="both") %}
-
-![Lorem](placeholder.jpg#medium)
-
-### **SECTION 2.1**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+![secure](./img/secure.png#mx-auto)
 
 |||
 
-![Lorem](placeholder.jpg#medium)
+# Secure<br>
+# Every Click
 
-### **SECTION 2.2**
+Every application of __OurPhone&trade;__ is fully encrypted. <br>
+Have no concerns about your data being manipulated or stolen.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
-|||
-
-![Lorem](placeholder.jpg#medium)
-
-### **SECTION 2.3**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+<button>[Learn More]()</button>
 
 {% end %}
 
-<br>
-<br>
-
-<!-- section 3 -->
-
-{% row(style="center" margin="narrow" padding="both") %}
-
-![Image](placeholder.jpg)
-
-|||
-
-## SECTION # <br /> HERE
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab blanditiis omnis odio repellat?
-
-<button>[BUTTON](/)</button>
-
-{% end %}
-
-<!-- section 4 -->
-
-{% row(style="" margin="narrow" padding="top") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.1**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.2**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-{% end %}
-
-<!-- section 4-2-->
-
-{% row(style="" margin="narrow" padding="bottom") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.3**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.5**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-{% end %}
-
-
-
-<!-- section 5 -->
-
-{% row(style="center" margin="narrow" padding="both") %}
-
-## SECTION 5 <br /> HEADER
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg)
-
-{% end %}
-
-<!-- section 6 -->
+<!-- section 3 features title -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## SECTION 6
+# Decentralized Smartphone
+# Like No Other
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit
-
-<button>[BUTTON](/)</button>
+Discover many unique features of __OurPhone&trade;__ that makes it the ultimate decentralized smartphone like no other.
 
 {% end %}
 
-{% row(margin="header" padding="none") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
-    ![Image](placeholder.jpg#medium#mx-auto)
+![Image](./img/data.png#sm#mx-auto)
+### 100% Data Ownership
+With __OurPhone&trade;__, you are the sole owner of your data, will always be, not some giant tech companies.
+
+|||
+
+![Image](./img/qss.png#sm#mx-auto)
+### Quantum Safe Storage
+Enjoy decentralized cloud storage benefit that comes with every __OurPhone&trade;__ Apps subscription.
+
+|||
+
+![Image](./img/ourapps.png#sm#mx-auto)
+### Introducing __OurVerse&trade;__
+__OurApps&trade;__: decentralized SuperApps powered by  __OurPhone&trade;__ are ready to meet our needs.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+![Image](./img/decentralized.png#sm#mx-auto)
+### Decentralized Network Support
+__OurVerse&trade;__ are hosted on the world's largest decentralized network. Join the movement.
+
+|||
+
+![Image](./img/edge.png#sm#mx-auto)
+### Edge Computing Speed
+Experience unparalleled usage speed with __OurVerse&trade;__'s latest edge cloud technology.
+
+
+|||
+
+![Image](./img/planetary.png#sm#mx-auto)
+### Fully Encrypted Communication
+Any transfer of data is powered by __Planetary Network&trade;__: a fully encrypted network technology.
+
+{% end %}
+
+<!-- section 5 apps -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+# OurVerse&trade;
+# Our Limitless Possibilities
+
+Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our daily needs and protect our data sovereignty.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+![Image](./img/manyapps.png#mx-auto)
+
+<br>
+
+<button>[See Specs](/)</button>
+
+{% end %}
+
+<!-- section 5 apps -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+# Powered by
+# ThreeFold
+
+The world’s largest decentralized network by __ThreeFold__ allows every application on the __OurApps&trade;__ to attain a level of security and privacy like never seen before.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+![Image](./img/tf.png#mx-auto)
+
+<br>
+
+<button>[Learn More](/)</button>
+
+{% end %}
+
+
+<!-- section 6 Buy -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+# OurPhone&trade;
+
+![Image](./img/placeholder.png#medium#mx-auto)
+<br>
+<br>
+
+### __A Truly Decentralized Smartphone__ 
+### __Like No Other__
+
+
+<button>[Buy Now](/)</button>
 
 {% end %}

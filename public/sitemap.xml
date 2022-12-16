@@ -4,6 +4,10 @@
         <loc>https://examplezola.tf/</loc>
     </url>
     <url>
+        <loc>https://examplezola.tf/buy/</loc>
+        <lastmod>2021-02-20</lastmod>
+    </url>
+    <url>
         <loc>https://examplezola.tf/categories/</loc>
     </url>
     <url>
@@ -11,11 +15,11 @@
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://examplezola.tf/page2/</loc>
+        <loc>https://examplezola.tf/specs/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://examplezola.tf/page3/</loc>
+        <loc>https://examplezola.tf/technology/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
 </urlset>
