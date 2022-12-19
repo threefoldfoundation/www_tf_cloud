@@ -11,7 +11,7 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both" bgPath="./img/placeholder1.png" ) %}
+{% row(style="center" margin="header" padding="both" bgPath="./img/placeholder.png" ) %}
 
 # BE A PART OF OUR SOVEREIGN MOVEMENT
 
