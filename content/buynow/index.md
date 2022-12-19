@@ -23,7 +23,7 @@ weight: 2
 
 <button>[Pre-Order](/)</button>
 
-Sign up for **OurPhone&trade;** pre-sale. <br> Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured digital future.
+Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured digital future.
 
 |||
 
