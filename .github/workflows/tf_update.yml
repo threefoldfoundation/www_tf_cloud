@@ -19,3 +19,4 @@ jobs:
             cd /home/webuser/websites/www_ourphone/
             git log -1
             git pull
+            bash build.sh
