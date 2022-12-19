@@ -17,7 +17,7 @@ weight: 1
 Experience True Sovereignty at Your Fingertips <br>
 with the World’s First Truly Decentralized Smartphone.
 
-<button>[Learn More]()</button>
+<button>[Learn More](/specs)</button>
 
 |||
 
@@ -40,7 +40,7 @@ Every application of __OurPhone&trade;__ is fully encrypted. <br>
 Have no concerns about your data being manipulated or stolen.
 
 
-<button>[Learn More]()</button>
+<button>[Learn More](/technology)</button>
 
 {% end %}
 
@@ -113,7 +113,7 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 <br>
 
-<button>[See Specs](/)</button>
+<button>[See Specs](/specs)</button>
 
 {% end %}
 
@@ -134,7 +134,7 @@ The world’s largest decentralized network by __ThreeFold__ allows every applic
 
 <br>
 
-<button>[Learn More](/)</button>
+<button>[Learn More](/technology)</button>
 
 {% end %}
 
@@ -153,6 +153,6 @@ The world’s largest decentralized network by __ThreeFold__ allows every applic
 ### __Like No Other__
 
 
-<button>[Buy Now](/)</button>
+<button>[Buy Now](/buynow)</button>
 
 {% end %}
