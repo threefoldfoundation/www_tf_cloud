@@ -11,6 +11,13 @@ weight: 1
 
 {% row(margin="header" padding="top") %}
 
+<br>
+
+![placeholder](./img/placeholder.png#mx-auto)
+
+
+|||
+
 # Meet<br>
 # OurPhone&trade;
 
@@ -19,19 +26,11 @@ with the World’s First Truly Decentralized Smartphone.
 
 <button>[Learn More](/specs)</button>
 
-|||
-
-![placeholder](./img/placeholder.png#mx-auto)
-
 {% end %}
 
 <!-- section 2 security -->
 
 {% row(margin="header" padding="top") %}
-
-![secure](./img/secure.png#mx-auto)
-
-|||
 
 # Secure<br>
 # Every Click
@@ -39,8 +38,11 @@ with the World’s First Truly Decentralized Smartphone.
 Every application of __OurPhone&trade;__ is fully encrypted. <br>
 Have no concerns about your data being manipulated or stolen.
 
-
 <button>[Learn More](/technology)</button>
+
+|||
+
+![secure](./img/secure.png#mx-auto)
 
 {% end %}
 

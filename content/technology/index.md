@@ -74,7 +74,6 @@ Gain a full control and access to your sovereign internet life.
 
 Learn about the magic of the technology behind __OurPhone&trade;__ such as __Quantum Safe Storage System__,__Planetary Network__, __EDGE Computing__, and many more.
 
-
 <button>[Learn More](https://library.threefold.me/info/threefold/#/technology/threefold__zos)</button>
 
 {% end %}

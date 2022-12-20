@@ -35,7 +35,7 @@ weight: 2
 {% row(style="center" margin="narrow" padding="top") %}
 
 # Decentralized SmartPhone,
-## Designed Smartly
+# Designed Smartly
 
 {% end %}
 

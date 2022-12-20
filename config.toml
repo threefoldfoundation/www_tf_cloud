@@ -2,8 +2,8 @@
 base_url = "https://ourphone.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "examplezola"
-description="Our global digital backbone"
+title = "OurPhone"
+description="Sovereign SmartPhone Like No Other"
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true
