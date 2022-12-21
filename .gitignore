@@ -24,5 +24,6 @@ dist
 run*
 install*
 public
+public/*
 static/css
 tailwindcss
