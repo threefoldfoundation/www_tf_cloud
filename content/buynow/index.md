@@ -7,17 +7,23 @@ draft: false
 weight: 2
 ---
 
+<div class="container-fluid mx-auto">
+
 <br>
 
 <!-- section 1 (co-found) -->
 
 {% row(style="center" margin="header" padding="both" bgPath="./img/placeholder.png" ) %}
 
-# BE A PART OF OUR SOVEREIGN MOVEMENT
+# BE A PART OF <br> OUR SOVEREIGN MOVEMENT
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+</div>
+
+<div class="container mx-auto">
+
+{% row(style="center" margin="withContainer" padding="both") %}
 
 ![image](./img/phone1.png)
 
@@ -41,3 +47,5 @@ Learn more about how to purchase **OurPhone&trade;** Company's shares, and becom
 
 Support **OurPhone&trade;** project by financing **OurPhone&trade;** Company's hardware acquisition.
 {% end %}
+
+</div>

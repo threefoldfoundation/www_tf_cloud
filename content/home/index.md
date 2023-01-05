@@ -6,7 +6,7 @@ updated: 2021-02-20
 draft: false
 weight: 1
 ---
-
+<div class="container mx-auto"> 
 <!-- section 1 (header) -->
 
 {% row(margin="withContainer" padding="both") %}
@@ -159,4 +159,8 @@ The world’s largest decentralized network by __ThreeFold__ allows every applic
 
 <button>[Buy Now](/buynow)</button>
 
+
+
 {% end %}
+
+</div>
