@@ -9,7 +9,7 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(margin="header" padding="top") %}
+{% row(margin="withContainer" padding="both") %}
 
 <br>
 
@@ -18,8 +18,10 @@ weight: 1
 
 |||
 
-# Meet<br>
-# OurPhone&trade;
+<br>
+
+# Meet<br> OurPhone&trade;
+
 
 Experience True Sovereignty at Your Fingertips <br>
 with the World’s First Truly Decentralized Smartphone.
@@ -30,10 +32,10 @@ with the World’s First Truly Decentralized Smartphone.
 
 <!-- section 2 security -->
 
-{% row(margin="header" padding="top") %}
+{% row(margin="withContainer" padding="top") %}
 
-# Secure<br>
-# Every Click
+# Secure<br> Every Click
+ 
 
 Every application of __OurPhone&trade;__ is fully encrypted. <br>
 Have no concerns about your data being manipulated or stolen.
@@ -48,16 +50,16 @@ Have no concerns about your data being manipulated or stolen.
 
 <!-- section 3 features title -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="top") %}
 
-# Decentralized Smartphone
-# Like No Other
+# Decentralized Smartphone <br> Like No Other
 
-Discover many unique features of __OurPhone&trade;__ that makes it the ultimate decentralized smartphone like no other.
+
+Discover many unique features of __OurPhone&trade;__ that makes it <br>the ultimate decentralized smartphone like no other.
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="none") %}
 
 ![Image](./img/data.png#sm#mx-auto)
 ### 100% Data Ownership
@@ -77,7 +79,7 @@ __OurApps&trade;__: decentralized SuperApps powered by  __OurPhone&trade;__ are 
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="bottom") %}
 
 ![Image](./img/decentralized.png#sm#mx-auto)
 ### Decentralized Network Support
@@ -100,7 +102,7 @@ Any transfer of data is powered by __Planetary Network&trade;__: a fully encrypt
 
 <!-- section 5 apps -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="top") %}
 
 # OurVerse&trade;
 # Our Limitless Possibilities
@@ -109,7 +111,7 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="bottom") %}
 
 ![Image](./img/manyapps.png#mx-auto)
 
@@ -121,16 +123,16 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 <!-- section 5 apps -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="top") %}
 
 # Powered by
 # ThreeFold
 
-The world’s largest decentralized network by __ThreeFold__ allows every application on the __OurApps&trade;__ to attain a level of security and privacy like never seen before.
+The world’s largest decentralized network by __ThreeFold__ allows every application<br> on the __OurApps&trade;__ to attain a level of security and privacy like never seen before.
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="withContainer" padding="bottom") %}
 
 ![Image](./img/tf.png#mx-auto)
 
@@ -143,7 +145,7 @@ The world’s largest decentralized network by __ThreeFold__ allows every applic
 
 <!-- section 6 Buy -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="both") %}
 
 # OurPhone&trade;
 

@@ -41,7 +41,7 @@ Parameters:
 {% if 2 < columns | length %}
     {% set row_class = row_class ~ " lg:items-start" %}
 {% else %} 
-    {% set row_class = row_class ~ " lg:items-center" %}
+    {% set row_class = row_class ~ " items-center" %}
 {% endif %}
 
 {% set col_class = "flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4" %}
@@ -94,6 +94,8 @@ Parameters:
         {% set margin_class = " mx-20 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
     {% elif "header" in margin %}
         {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10" %}
+    {% elif "withContainer" in margin %}
+        {% set margin_class = " mx-8 " %}
     {% endif %}
     {% if "lean-left" in margin %}
         {% set margin = margin_class | replace(from=" ", to=" first:")%}
