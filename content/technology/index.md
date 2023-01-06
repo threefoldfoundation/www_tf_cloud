@@ -7,20 +7,21 @@ draft: false
 weight: 2
 ---
 
-<br>
+<div class="container mx-auto">
 
 <!-- section 1 (co-found) -->
+<br>
 
 {% row(style="center" margin="header" padding="top") %}
 
 # Powered by ThreeFold
+
 <br>
 
 ![Image](./img/tfbg.png#mx-auto)
 
 <a href="https://library.threefold.me/info/threefold#/tfgrid/threefold__tfgrid_home" target="_blank"><ins>The world’s largest decentralized network </ins></a>by [**ThreeFold**](https://threefold.io/)<br>allows every application on the __OurApps&trade;__ to attain a level of security and privacy like never seen before.
 
-<br>
 
 <button>[Learn More](https://library.threefold.me/info/threefold/#/tfgrid/threefold__tfgrid_home)</button>
 
@@ -28,7 +29,7 @@ weight: 2
 
 <!-- section 2 (graphene) -->
 
-{% row(style="left" margin="narrow" padding="top") %}
+{% row(style="left" margin="withContainer" padding="both") %}
 
 ![Image](./img/graphene.png#mx-auto)
 
@@ -44,7 +45,7 @@ Gain a full control and access to your sovereign internet life.
 
 <!-- section 2 (co-found) -->
 
-{% row(style="left" margin="narrow" padding="top") %}
+{% row(style="left reverse" margin="withContainer" padding="both") %}
 
 # [OurVerse&trade;](https://ourverse.tf/)
 
@@ -59,18 +60,14 @@ Gain a full control and access to your sovereign internet life.
 
 <!-- section 5 apps -->
 
-{% row(style="center" margin="narrow" padding="top") %}
 
-# ThreeFold's 
-# Decentralized Internet
-
-{% end %}
-
-{% row(style="left" margin="narrow" padding="") %}
+{% row(style="left" margin="withContainer" padding="both") %}
 
 ![Image](./img/technology.png#mx-auto)
 
 |||
+
+# ThreeFold's <br> Decentralized Internet
 
 Learn about the magic of the technology behind __OurPhone&trade;__ such as __Quantum Safe Storage System__,__Planetary Network__, __EDGE Computing__, and many more.
 
@@ -80,18 +77,19 @@ Learn about the magic of the technology behind __OurPhone&trade;__ such as __Qua
 
 <!-- section 6 Buy -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="withContainer" padding="both") %}
 
 # OurPhone&trade;
 
 ![Image](./img/placeholder.png#medium#mx-auto)
 <br>
-<br>
 
-### __A Truly Decentralized Smartphone__ 
-### __Like No Other__
+
+### __A Truly Decentralized Smartphone__ <br>__Like No Other__
 
 
 <button>[Buy Now](/buynow)</button>
 
 {% end %}
+
+</div>

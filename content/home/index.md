@@ -32,7 +32,7 @@ with the World’s First Truly Decentralized Smartphone.
 
 <!-- section 2 security -->
 
-{% row(margin="withContainer" padding="top") %}
+{% row(style="reverse" margin="withContainer" padding="top") %}
 
 # Secure<br> Every Click
  
@@ -104,8 +104,7 @@ Any transfer of data is powered by __Planetary Network&trade;__: a fully encrypt
 
 {% row(style="center" margin="withContainer" padding="top") %}
 
-# OurVerse&trade;
-# Our Limitless Possibilities
+# OurVerse&trade; <br> Our Limitless Possibilities
 
 Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our daily needs and protect our data sovereignty.
 

@@ -7,11 +7,13 @@ draft: false
 weight: 2
 ---
 
+<div class="container mx-auto">
+
 <br>
 
 <!-- section 1 (header) -->
 
-{% row(margin="header" padding="top") %}
+{% row(margin="withContainer" padding="both") %}
 
 ![placeholder](./img/specf.png#large#mx-auto)
 
@@ -32,14 +34,14 @@ weight: 2
 
 <!-- section 2 design -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="top") %}
 
 # Decentralized SmartPhone,
 # Designed Smartly
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="withContainer" padding="none") %}
 
 
 ![Image](./img/waterproof.png#medium#mx-auto)
@@ -54,7 +56,7 @@ Fast and Responsive Display with High Durability
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="withContainer" padding="bottom") %}
 
 ![Image](./img/camera.png#medium#mx-auto)
 
@@ -65,7 +67,7 @@ Fast and Responsive Display with High Durability
 
 <!-- section 3 models -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="top") %}
 
 # OurPhone&trade; Models
 <br />
@@ -73,7 +75,7 @@ Fast and Responsive Display with High Durability
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="withContainer" padding="bottom") %}
 
 ![Image](./img/phone1.png#medium#mx-auto)
 
@@ -166,7 +168,7 @@ Fast and Responsive Display with High Durability
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="none") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ### __OurPhone<sup>X</sup>__
 <br>
@@ -215,13 +217,13 @@ Fast and Responsive Display with High Durability
 
 <!-- section 6 Buy -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="withContainer" padding="both") %}
 
 # OurPhone&trade;
 
 ![Image](./img/placeholder.png#medium#mx-auto)
 <br>
-<br>
+
 
 ### __A Truly Decentralized Smartphone__ 
 ### __Like No Other__
@@ -230,3 +232,5 @@ Fast and Responsive Display with High Durability
 <button>[Buy Now](/buynow)</button>
 
 {% end %}
+
+</div>
