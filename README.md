@@ -8,7 +8,7 @@
 
 The official website of OurPhone&trade;
 
-[www.ourphone.ourworld.tf](https://ourphone.ourworld.tf/)
+[ourphone.ourworld.tf](https://ourphone.ourworld.tf/)
 
 ## Contribution
 
