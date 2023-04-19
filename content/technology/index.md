@@ -45,9 +45,10 @@ Gain a full control and access to your sovereign internet life.
 
 <!-- section 2 (co-found) -->
 
-{% row(style="left reverse" margin="withContainer" padding="both") %}
+{% row(style="right" reverse="rightreserve" margin="withContainer" padding="both") %}
 
-# [OurVerse&trade;](https://ourverse.tf/)
+
+<a href="https://ourverse.tf/" target="_blank"><h1>OurVerse&trade;</h1></a>
 
 <a href="https://ourverse.tf/" target="_blank"><ins>**OurVerse**</ins></a>**&trade;** is a secure and open-source digital world offering alternative SuperApps to centralized apps, customized by __OurPhone&trade;__ team.
 
