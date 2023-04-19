@@ -32,7 +32,7 @@ with the World’s First Truly Decentralized Smartphone.
 
 <!-- section 2 security -->
 
-{% row(style="reverse" margin="withContainer" padding="top") %}
+{% row(style="right" reverse="rightreserve" margin="withContainer" padding="top") %}
 
 # Secure<br> Every Click
  
