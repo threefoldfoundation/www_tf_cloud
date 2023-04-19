@@ -8,7 +8,7 @@
 
 The official website of OurPhone&trade;
 
-[www.threefold.io](https://ourphone.ourworld.tf)
+[www.ourphone.ourworld.tf](https://ourphone.ourworld.tf/)
 
 ## Contribution
 
