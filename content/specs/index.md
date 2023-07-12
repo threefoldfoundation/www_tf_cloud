@@ -23,12 +23,12 @@ weight: 2
 
 - Based on Google Pixel 6a, 7 and 7 Pro
 - Graphene OS (Google-less Android)
-- ThreeFold Quantum Safe Storage, 
+- ThreeFold Quantum Safe Storage
 - ThreeFold Planetary network
 - ThreeFold Edge Compute Technology
 - OurVerse SuperApps, Android apps Compatibility
 - FreeFlow Twin Technology
-- Secure network layer 
+- Secure network layer
 
 {% end %}
 
