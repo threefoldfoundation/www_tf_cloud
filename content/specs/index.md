@@ -100,7 +100,7 @@ Fast and Responsive Display with High Durability
 
 #### __Battery and charging__
 ###### 5000 mAh3 
-###### 24+ hour battery life
+###### 24h+ hour battery life
 ###### Fast wireless charging
 
 |||
