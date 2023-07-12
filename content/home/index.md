@@ -50,7 +50,7 @@ Have no concerns about your data being manipulated or stolen.
 
 <!-- section 3 features title -->
 
-{% row(style="center" margin="withContainer" padding="top") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 # Decentralized Smartphone <br> Like No Other
 
@@ -59,7 +59,7 @@ Discover many unique features of __OurPhone&trade;__ that makes it <br>the ultim
 
 {% end %}
 
-{% row(style="center" margin="withContainer" padding="none") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 ![Image](./img/data.png#sm#mx-auto)
 ### 100% Data Ownership
@@ -79,7 +79,7 @@ __OurApps&trade;__: decentralized SuperApps powered by  __OurPhone&trade;__ are 
 
 {% end %}
 
-{% row(style="center" margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
 ![Image](./img/decentralized.png#sm#mx-auto)
 ### Decentralized Network Support
@@ -102,7 +102,7 @@ Any transfer of data is powered by __Planetary Network&trade;__: a fully encrypt
 
 <!-- section 5 apps -->
 
-{% row(style="center" margin="withContainer" padding="top") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
 # OurVerse&trade; <br> Our Limitless Possibilities
 

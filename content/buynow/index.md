@@ -23,7 +23,7 @@ weight: 2
 
 <div class="container mx-auto">
 
-{% row(style="center" margin="withContainer" padding="both") %}
+{% row(style="center" margin="narrow" padding="both") %}
 
 ![image](./img/phone1.png)
 
@@ -41,11 +41,11 @@ Learn more about how to purchase **OurPhone&trade;** Company's shares, and becom
 
 |||
 
-![image](./img/invest.png)
+![image](./img/3nodes.png)
 
-<button>[Invest](/)</button>
+<button>[Buy 3Node](https://marketplace.3node.global/index.php)</button>
 
-Support **OurPhone&trade;** project by financing **OurPhone&trade;** Company's hardware acquisition.
+Become a **ThreeFold Farmer**, Buy ThreeFold's **3Node**, be the host for our sovereign Digital Life.
 {% end %}
 
 </div>

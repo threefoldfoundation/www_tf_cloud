@@ -23,12 +23,12 @@ weight: 2
 
 - Based on Google Pixel 6a, 7 and 7 Pro
 - Graphene OS (Google-less Android)
-- ThreeFold Quantum Safe Storage, 
+- ThreeFold Quantum Safe Storage
 - ThreeFold Planetary network
 - ThreeFold Edge Compute Technology
 - OurVerse SuperApps, Android apps Compatibility
 - FreeFlow Twin Technology
-- Secure network layer 
+- Secure network layer
 
 {% end %}
 
@@ -100,7 +100,7 @@ Fast and Responsive Display with High Durability
 
 #### __Battery and charging__
 ###### 5000 mAh3 
-###### 24+ hour battery life
+###### 24h+ hour battery life
 ###### Fast wireless charging
 
 |||
@@ -168,7 +168,7 @@ Fast and Responsive Display with High Durability
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(margin="narrow" padding="bottom") %}
 
 ### __OurPhone<sup>X</sup>__
 <br>
