@@ -27,7 +27,7 @@ weight: 2
 
 ![image](./img/phone1.png)
 
-<button>[Pre-Order](/)</button>
+<button>[Pre-Order](https://docs.google.com/forms/d/e/1FAIpQLSecdYeQZnEZTCFaJDR0JUIdDqRcLLGwYQGZZf3e8h1rtmDTSg/viewform)</button>
 
 Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured digital future.
 
@@ -35,7 +35,7 @@ Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured d
 
 ![image](./img/crowdfund1.png)
 
-<button>[Crowdfund](/)</button>
+<button>[Crowdfund](https://docs.google.com/forms/d/e/1FAIpQLSecdYeQZnEZTCFaJDR0JUIdDqRcLLGwYQGZZf3e8h1rtmDTSg/viewform)</button>
 
 Learn more about how to purchase **OurPhone&trade;** Company's shares, and become a co-owner of **OurPhone&trade;** Company.
 
