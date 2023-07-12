@@ -23,7 +23,7 @@ weight: 2
 
 <div class="container mx-auto">
 
-{% row(style="center" margin="withContainer" padding="both") %}
+{% row(style="center" margin="narrow" padding="both") %}
 
 ![image](./img/phone1.png)
 

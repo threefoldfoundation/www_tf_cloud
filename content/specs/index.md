@@ -168,7 +168,7 @@ Fast and Responsive Display with High Durability
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(margin="narrow" padding="bottom") %}
 
 ### __OurPhone<sup>X</sup>__
 <br>
