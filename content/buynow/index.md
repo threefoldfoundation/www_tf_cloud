@@ -43,7 +43,7 @@ Become a **ThreeFold Farmer**, Buy ThreeFold's **3Node**, be the host for our so
 
 ![image](./img/crowdfund1.png)
 
-<button>[Crowdfund](https://forms.gle/Gnx5rJMavjXbJ3ro6)</button>
+<button>[Invest](https://forms.gle/m49YwwCjMN9uiSG89)</button>
 
 Learn more about how to purchase **Company** shares, and become a co-owner of **Our Venture Creator**.
 
