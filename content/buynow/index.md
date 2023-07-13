@@ -33,7 +33,7 @@ Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured d
 
 |||
 
-![image](./img/3nodes.png)
+![image](./img/3NODES.png)
 
 <button>[Buy 3Node](https://forms.gle/G2qoLLDAsGLdjNgX6)</button>
 
