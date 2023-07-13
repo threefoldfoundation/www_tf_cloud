@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://ourphone.ourworld.tf/</loc>
+        <loc>https://ourphone.tf/</loc>
     </url>
     <url>
-        <loc>https://ourphone.ourworld.tf/buynow/</loc>
+        <loc>https://ourphone.tf/buynow/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://ourphone.ourworld.tf/categories/</loc>
+        <loc>https://ourphone.tf/categories/</loc>
     </url>
     <url>
-        <loc>https://ourphone.ourworld.tf/home/</loc>
+        <loc>https://ourphone.tf/header/</loc>
+    </url>
+    <url>
+        <loc>https://ourphone.tf/home/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://ourphone.ourworld.tf/specs/</loc>
+        <loc>https://ourphone.tf/specs/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://ourphone.ourworld.tf/technology/</loc>
+        <loc>https://ourphone.tf/technology/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
 </urlset>

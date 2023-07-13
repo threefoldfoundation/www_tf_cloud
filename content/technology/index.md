@@ -50,7 +50,7 @@ Gain a full control and access to your sovereign internet life.
 
 <a href="https://ourverse.tf/" target="_blank"><h1>OurVerse&trade;</h1></a>
 
-<a href="https://ourverse.tf/" target="_blank"><ins>**OurVerse**</ins></a>**&trade;** is a secure and open-source digital world offering alternative SuperApps to centralized apps, customized by __OurPhone&trade;__ team.
+<a href="https://ourverse.tf/" target="_blank"><ins>**OurVerse**</ins></a>**&trade;** is a secure and open-source digital world offering alternative SuperApps to centralized apps, develped by __OurWorld__ and __ThreeFold__ team.
 
 |||
 

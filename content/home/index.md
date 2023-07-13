@@ -62,12 +62,14 @@ Discover many unique features of __OurPhone&trade;__ that makes it <br>the ultim
 {% row(style="center" margin="narrow" padding="none") %}
 
 ![Image](./img/data.png#sm#mx-auto)
+
 ### 100% Data Ownership
 With __OurPhone&trade;__, you are the sole owner of your data, will always be, not some giant tech companies.
 
 |||
 
 ![Image](./img/qss.png#sm#mx-auto)
+
 ### Quantum Safe Storage
 Enjoy decentralized cloud storage benefit that comes with every __OurPhone&trade;__ Apps subscription.
 

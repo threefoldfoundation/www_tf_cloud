@@ -21,7 +21,7 @@ weight: 2
 
 # OurPhone&trade; Overview
 
-- Based on Google Pixel 6a, 7 and 7 Pro
+- Based on Google Pixel 6a, 7 and 7 Pro (for our X, Y and A model)
 - Graphene OS (Google-less Android)
 - ThreeFold Quantum Safe Storage
 - ThreeFold Planetary network

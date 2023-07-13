@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://ourphone.ourworld.tf/sitemap.xml
+Sitemap: https://ourphone.tf/sitemap.xml

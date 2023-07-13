@@ -11,5 +11,5 @@ extra:
 - [OURPHONE]("/")
 - [BUYNOW]("/buynow")
 - [SPECS]("/specs")
-- [OUEVERSE]("https://ourverse.tf/")
 - [TECHNOLOGY]("/technology")
+- [OURVERSE]("https://ourverse.tf/")

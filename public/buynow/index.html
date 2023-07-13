@@ -36,7 +36,7 @@
   <!-- **** CONCLUSION, favicons **** -->
 
   <!-- CSS/SCSS -->
-  <link rel="stylesheet" href="https://ourphone.ourworld.tf/css/index.css?h=8ea8a615d5a5a9339423096c45329cf61cd2193f52db4447f8ae0248efacaed8" />  <style>@-moz-document url-prefix() {.lazy:-moz-loading {visibility:hidden;}}.ieOnly {display: none;}@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {.ieOnly {display: block;}}</style>
+  <link rel="stylesheet" href="https://ourphone.tf/css/index.css?h=5799d43775da59ef5d2ca88a23a48a90600f2cde78709878bdcde6d51b76c93d" />  <style>@-moz-document url-prefix() {.lazy:-moz-loading {visibility:hidden;}}.ieOnly {display: none;}@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {.ieOnly {display: block;}}</style>
   
 </head>
 
@@ -135,121 +135,408 @@
 
 
 
-    <header id="header-container">
-        
-        <div class="z-10 bg-white fixed w-screen max-w-full customize">
-            <div class="relative z-50 shadow">
-            <div class="mx-auto flex z-50 shadow justify-between items-center pl-6 pr-2 md:pr-0 lg:py-5  md:px-12 py-2 lg:px-20 lg:justify-start lg:space-x-20">
-                <div>
-                    <a href="/" class="flex">
-                        <img class="h-auto sm:w-15" src="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;images&#x2F;logo_placeholder.png" alt="Logo" />
-                    </a>
-                </div>
-                <div class="-mr-2 -my-2 lg:hidden">
-                    <button id="hamburger-btn" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
-                        <!-- Heroicon name: menu -->
-                        <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-                        </svg>
-                    </button>
-                <button id="close-hamburger-btn" type="button" class="hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
-                    <!-- Heroicon name: x -->
-                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                    </button>
-                </div>
-                <div class="hidden lg:flex-1 lg:flex lg:items-center lg:justify-end lg:space-x-12">
-                    <nav class="flex space-x-10">    
-                    
-                    
-                        <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;home&#x2F;" class="text-lg leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
-                            OurPhone
-                        </a>
-                        <div class="relative">
-                        </div>
-                    
-                    
-                        <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;buynow&#x2F;" class="text-lg leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
-                            BUY NOW
-                        </a>
-                        <div class="relative">
-                        </div>
-                    
-                    
-                        <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;specs&#x2F;" class="text-lg leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
-                            Specs
-                        </a>
-                        <div class="relative">
-                        </div>
-                    
-                    
-                        <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;technology&#x2F;" class="text-lg leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
-                            Technology
-                        </a>
-                        <div class="relative">
-                        </div>
-                    
-                    
-                    </nav>
-                </div>
-            </div>
-        </div>
     
     
-        
-            <!--
-            Mobile menu, show/hide based on mobile menu state.
-        
-            Entering: "duration-200 ease-out"
-                From: "opacity-0 scale-95"
-                To: "opacity-100 scale-100"
-            Leaving: "duration-100 ease-in"
-                From: "opacity-100 scale-100"
-                To: "opacity-0 scale-95"
-            -->
-        <div id="hamburger" class="hidden fixed mt-16 z-20 top-0 inset-x-0 transition transform origin-top-right lg:hidden">
+    <!--
+  Tailwind UI components require Tailwind CSS v1.8 and the @tailwindcss/ui plugin.
+  Read the documentation to get started: https://tailwindui.com/documentation
+--><!-- This example requires Tailwind CSS v1.4.0+ -->
+
+<script type="text/javascript">
+    
+    var displayedMenu = "";
+    var hamburgerShown = false;
+    let width = screen.width;
+    var isMobile = width < 1024;
+
+    function toggleMenu(button) {
+        if (displayedMenu === button.id.split("-")[0]) { 
+            button.className = button.className.replace(" text-blue-500 bg-stone-200 sm:bg-transparent", " text-gray-900");
+            hideMenu(button.id.split("-")[0]);
+            button.lastElementChild.className = button.lastElementChild.className.replace("rotate-0", "-rotate-90")
+            displayedMenu = "";
+        }
+        else { 
+            showMenu(button.id.split("-")[0]);
+            button.lastElementChild.className = button.lastElementChild.className.replace("-rotate-90", "rotate-0")
+            button.className = button.className.replace(" text-gray-900", " text-blue-500 bg-stone-200 sm:bg-transparent");
+            displayedMenu = button.id.split("-")[0]
+        }
+    }
+
+    function handleClick(button) {
+        if (button.id === "hamburger-btn" || button.id === "close-hamburger-btn") { toggleHamburger() }
+        if (button.id.indexOf("menu") !== -1 ) { 
+            toggleMenu(button) 
+        }
+    }
+
+    function toggleHamburger() {
+        if (hamburgerShown) { 
+            hideHamburger();
+            hamburgerShown = false;
+        }
+        else { 
+            showHamburger();
+            hamburgerShown = true;
+        }
+    }
+
+    function showMenu(menuName) {
+        var menuId = menuName + (isMobile ? '-mobile-menu' : '-menu');
+        var menuBtnId = menuName + (isMobile ? '-mobile-menu' : '-menu');
+        var menuElement = document.getElementById(menuId)
+        menuElement.className = menuElement.className.replace(" hidden" , "");
+        setTimeout(function() { menuElement.className = menuElement.className.replace("duration-200 ease-in opacity-0 -translate-y-1", "duration-150 ease-out opacity-1 -translate-y-0"); }, 10);
+    }
+
+    function hideMenu(menuName) {
+        var menuId = menuName + (isMobile ? '-mobile-menu' : '-menu');
+        var menuElement = document.getElementById(menuId)
+        menuElement.className = menuElement.className.replace("duration-150 ease-out opacity-1 -translate-y-0", "duration-200 ease-in opacity-0 -translate-y-1");
+        setTimeout(function() { menuElement.className = menuElement.className + " hidden" }, 300);
+    }
+
+    function showHamburger() {
+        document.getElementById('header-container').className = "overflow-hidden";
+        document.getElementById('hamburger').className = "fixed mt-16 z-20 top-0 inset-x-0 transition transform origin-top-right";
+        document.getElementById('hamburger-btn').className = "hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2";
+        document.getElementById('close-hamburger-btn').className = "inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2";
+    }
+
+    function hideHamburger() {
+        document.getElementById('header-container').className = "";
+        document.getElementById('hamburger').className = "hidden absolute z-20 top-0 inset-x-0 transition transform origin-top-right lg:hidden";
+        document.getElementById('hamburger-btn').className = "inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2";
+        document.getElementById('close-hamburger-btn').className = "hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2";
+        if (displayedMenu !== "") { hideMenu(displayedMenu); }
+    }
+
+    window.onload = function(){
+        let elements = document.getElementsByTagName("button");
+        let buttons = [...elements]
+        buttons.forEach((button) => {
+            button.addEventListener( 'click', function() { handleClick(button) });
+        })
+        document.getElementById("mobile-learn-btn").addEventListener( 'click', toggleMenu);
+    }
+
+</script>
+
+
+<header id="header-container">
+    <div class="z-10 bg-white fixed w-screen">
+        <div class="relative z-50 shadow">
+        <div class="mx-auto flex z-50 shadow justify-between items-center pl-6 pr-2 md:pl-0 md:pr-0 lg:py-5 sm:px-8 md:px-12 py-2 lg:px-20 lg:justify-start lg:space-x-20">
             <div>
-                <div class="shadow-xs h-screen bg-white divide-y-2 divide-gray-50">
-                    <div class="pt-6 sm:px-12 md:px-16 lg:px-20 space-y-6 sm:space-y-8 sm:pb-8 max-h-screen overflow-y-auto">
-    
-                        <nav class="flex flex-col justify-around pb-12">
-                        
-                             
-                            
-                            
-                            <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;buynow&#x2F;" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
-                                BUY NOW
-                            </a>
-                            <hr/>
-                        
-                            
-                            
-                            <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;specs&#x2F;" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
-                                Specs
-                            </a>
-                            <hr/>
-                        
-                            
-                            
-                            <a href="https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;technology&#x2F;" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
-                                Technology
-                            </a>
-                            <hr/>
-                        
-                        
-                        
-                        </nav>                    
-                    </div>
-                
+                <a href="/" class="flex">
+                    <img class="w-48 h-auto sm:w-15" src="&#x2F;images&#x2F;logo_placeholder.png" alt="Ourworld Logo" />
+                </a>
             </div>
-            
+            <div class="-mr-2 -my-2 lg:hidden">
+                <button id="hamburger-btn" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
+                    <!-- Heroicon name: menu -->
+                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+                    </svg>
+                </button>
+            <button id="close-hamburger-btn" type="button" class="hidden lg:hidden inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out my-2">
+                <!-- Heroicon name: x -->
+                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+                </button>
+            </div>
+            <div class="hidden lg:flex-1 lg:flex lg:items-center lg:justify-end lg:space-x-12">
+            <nav class="flex space-x-10">
+
+
+
+
+
+    
+    
+    
+        
+        
+        
+            <a href="&#x2F;" class="text-lg leading-6 font-medium text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                OURPHONE
+            </a>
+        
+      
+
+
+
+    
+    
+    
+        
+        
+        
+            <a href="&#x2F;buynow" class="text-lg leading-6 font-medium text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                BUYNOW
+            </a>
+        
+      
+
+
+
+    
+    
+    
+        
+        
+        
+            <a href="&#x2F;specs" class="text-lg leading-6 font-medium text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                SPECS
+            </a>
+        
+      
+
+
+
+    
+    
+    
+        
+        
+        
+            <a href="https:&#x2F;&#x2F;ourverse.tf&#x2F;" target="_blank" class="text-lg leading-6 font-medium text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                OUEVERSE
+            </a>
+        
+      
+
+
+
+    
+    
+    
+        
+        
+        
+            <a href="&#x2F;technology" class="text-lg leading-6 font-medium text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                TECHNOLOGY
+            </a>
+        
+      
+
+
+</nav>
+
+
             </div>
         </div>
+        </div>
+
+
+
+
     
     
-    </header>
     
+    
+
+<nav>
+    <div id="a-href-22-22-ourphone-a-menu" class="mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div class="mx-8 lg:mx-20 xl:mx-20 px-6 py-4 sm:p-6 md:p-8 lg:p-12 xl:p-12">
+            
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-buynow-22-buynow-a-menu" class="mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div class="mx-8 lg:mx-20 xl:mx-20 px-6 py-4 sm:p-6 md:p-8 lg:p-12 xl:p-12">
+            
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-specs-22-specs-a-menu" class="mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div class="mx-8 lg:mx-20 xl:mx-20 px-6 py-4 sm:p-6 md:p-8 lg:p-12 xl:p-12">
+            
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22https-ourverse-tf-22-oueverse-a-menu" class="mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div class="mx-8 lg:mx-20 xl:mx-20 px-6 py-4 sm:p-6 md:p-8 lg:p-12 xl:p-12">
+            
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+    
+    
+    
+
+<nav>
+    <div id="a-href-22-technology-22-technology-a-menu" class="mt-16 sm:mt-0 md:mt-0 lg:mt-0 xl:mt-0 2xl:mt-0 z-30 absolute inset-x-0 transform shadow-lg lg:backdrop-blur xl:backdrop-blur transition duration-200 ease-in opacity-0 -translate-y-1 hidden">
+        <div class="bg-white lg:bg-semi-white md:bg-semi-white xl:bg-semi-white">
+            <div class="mx-8 lg:mx-20 xl:mx-20 px-6 py-4 sm:p-6 md:p-8 lg:p-12 xl:p-12">
+            
+</ul>
+
+            </div>
+        </div>            
+        </div>
+    </nav>
+
+
+
+
+
+    
+        <!--
+        Mobile menu, show/hide based on mobile menu state.
+    
+        Entering: "duration-200 ease-out"
+            From: "opacity-0 scale-95"
+            To: "opacity-100 scale-100"
+        Leaving: "duration-100 ease-in"
+            From: "opacity-100 scale-100"
+            To: "opacity-0 scale-95"
+        -->
+    <div id="hamburger" class="hidden fixed mt-16 z-20 top-0 inset-x-0 transition transform origin-top-right lg:hidden">
+        <div>
+            <div class="shadow-xs h-screen bg-white divide-y-2 divide-gray-50">
+                <div class="pb-6 sm:px-12 md:px-16 lg:px-20 space-y-6 sm:space-y-8 sm:pb-8 max-h-screen overflow-y-auto">
+
+                    <nav class="flex flex-col justify-around pb-12">
+                    
+
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                <a href="&#x2F;" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    OURPHONE
+                                </a>
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                <a href="&#x2F;buynow" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    BUYNOW
+                                </a>
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                <a href="&#x2F;specs" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    SPECS
+                                </a>
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                <a href="https:&#x2F;&#x2F;ourverse.tf&#x2F;" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    OUEVERSE
+                                </a>
+                            
+                            <hr/>
+                        
+                    
+
+                        
+                            
+                            
+                            
+                                
+                                
+                                <a href="&#x2F;technology" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                                    TECHNOLOGY
+                                </a>
+                            
+                            <hr/>
+                        
+                    
+                    
+                    </nav>                    
+                </div>
+            
+        </div>
+        
+        </div>
+    </div>
+
+
+</header>
+
 
 
 
@@ -262,7 +549,8 @@
     <script>mermaid.initialize({startOnLoad:true});</script>
     <div>
         
-            <br>
+            <div class="container-fluid mx-auto">
+<br>
 <!-- section 1 (co-found) -->
 <!-- row shortcode 
 Shortcode used in markdown for the creation of mobile compatible vertical rows
@@ -327,6 +615,11 @@ Parameters:
 
 
 
+    <!-- reverse col at mobile -->
+
+
+    
+
 
 
     
@@ -335,6 +628,12 @@ Parameters:
     
 
     
+
+
+    
+
+
+
 
      <!-- makes row semi-full screen width, strips margins -->
     
@@ -366,8 +665,8 @@ Parameters:
 
 
 
-        <div id="" class="relative justify-center flex overflow-hidden  " style="background: url(&#x27;https:&#x2F;&#x2F;ourphone.ourworld.tf&#x2F;buynow&#x2F;.&#x2F;img&#x2F;placeholder.png&#x27;); background-size: cover; background-position: center;">
-            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-center py-8 md:py-4 lg:py-28 mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10 text-center items-center mx-auto " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
+        <div id="" class="relative justify-center flex overflow-hidden  " style="background: url(&#x27;https:&#x2F;&#x2F;ourphone.tf&#x2F;buynow&#x2F;.&#x2F;img&#x2F;placeholder.png&#x27;); background-size: cover; background-position: center;">
+            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden items-center py-8 md:py-4 lg:py-24 mx-8 sm:mx-20 md:mx-28 lg:mx-40 my-10 text-center items-center  " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
         
          
 
@@ -377,14 +676,16 @@ Parameters:
                     <!-- handles mermaid markdown content display -->
 
                     
-                        <h1 id="be-a-part-of-our-sovereign-movement">BE A PART OF OUR SOVEREIGN MOVEMENT</h1>
+                        <h1 id="be-a-part-of-our-sovereign-movement">BE A PART OF <br> OUR SOVEREIGN MOVEMENT</h1>
 
                     
                 </div>
             
         
     </div>
-</div><!-- row shortcode 
+</div></div>
+<div class="container mx-auto">
+<!-- row shortcode 
 Shortcode used in markdown for the creation of mobile compatible vertical rows
 Divides markdown into columns by splitting content using column identifier "|||"
 Creates equal width blocks in a flex row.
@@ -417,7 +718,6 @@ Parameters:
             
                 
                     
-                    
                 
             
             
@@ -434,7 +734,6 @@ Parameters:
             
                 
                     
-                    
                 
             
             
@@ -450,7 +749,6 @@ Parameters:
             
             
                 
-                    
                     
                 
             
@@ -505,6 +803,11 @@ Parameters:
 
 
 
+    <!-- reverse col at mobile -->
+
+
+    
+
 
 
     
@@ -513,6 +816,12 @@ Parameters:
     
 
     
+
+
+    
+
+
+
 
      <!-- makes row semi-full screen width, strips margins -->
     
@@ -541,7 +850,7 @@ Parameters:
 
 
         <div id="" class="relative justify-center flex overflow-hidden  " style="">
-            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-start py-2 md:py-4 lg:pt-28 mx-12 sm:mx-20 md:mx-28 lg:mx-40 text-center items-center mx-auto " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
+            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-start py-8 md:py-4 lg:py-24 mx-8 sm:mx-20 md:mx-28 lg:mx-40 text-center items-center  " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
         
          
 
@@ -551,8 +860,8 @@ Parameters:
                     <!-- handles mermaid markdown content display -->
 
                     
-                        <p><img src="https://ourphone.ourworld.tf/buynow/./img/phone1.png" alt="image" /></p>
-<p><button><a href="https://ourphone.ourworld.tf/">Pre-Order</a></button></p>
+                        <p><img src="https://ourphone.tf/buynow/./img/phone1.png" alt="image" /></p>
+<p><button><a href="https://forms.gle/G2qoLLDAsGLdjNgX6">Pre-Order</a></button></p>
 <p>Pre-order <strong>OurPhone™</strong> and become one of the firsts to unlock a secured digital future.</p>
 
                     
@@ -567,8 +876,8 @@ Parameters:
 
                     
                         
-<p><img src="https://ourphone.ourworld.tf/buynow/./img/crowdfund1.png" alt="image" /></p>
-<p><button><a href="https://ourphone.ourworld.tf/">Crowdfund</a></button></p>
+<p><img src="https://ourphone.tf/buynow/./img/crowdfund1.png" alt="image" /></p>
+<p><button><a href="https://forms.gle/G2qoLLDAsGLdjNgX6">Crowdfund</a></button></p>
 <p>Learn more about how to purchase <strong>OurPhone™</strong> Company's shares, and become a co-owner of <strong>OurPhone™</strong> Company.</p>
 
                     
@@ -583,16 +892,16 @@ Parameters:
 
                     
                         
-<p><img src="https://ourphone.ourworld.tf/buynow/./img/invest.png" alt="image" /></p>
-<p><button><a href="https://ourphone.ourworld.tf/">Invest</a></button></p>
-<p>Support <strong>OurPhone™</strong> project by financing <strong>OurPhone™</strong> Company's hardware acquisition.</p>
+<p><img src="https://ourphone.tf/buynow/./img/3nodes.png" alt="image" /></p>
+<p><button><a href="https://marketplace.3node.global/index.php">Buy 3Node</a></button></p>
+<p>Become a <strong>ThreeFold Farmer</strong>, Buy ThreeFold's <strong>3Node</strong>, be the host for our sovereign Digital Life.</p>
 
                     
                 </div>
             
         
     </div>
-</div>
+</div></div>
         
     </div>
 
