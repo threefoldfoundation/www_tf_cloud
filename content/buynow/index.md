@@ -33,19 +33,21 @@ Pre-order **OurPhone&trade;** and become one of the firsts to unlock a secured d
 
 |||
 
-![image](./img/crowdfund1.png)
+![image](./img/3NODES.png)
 
-<button>[Crowdfund](https://forms.gle/G2qoLLDAsGLdjNgX6)</button>
+<button>[Buy 3Node](https://forms.gle/G2qoLLDAsGLdjNgX6)</button>
 
-Learn more about how to purchase **OurPhone&trade;** Company's shares, and become a co-owner of **OurPhone&trade;** Company.
+Become a **ThreeFold Farmer**, Buy ThreeFold's **3Node**, be the host for our sovereign Digital Life.
 
 |||
 
-![image](./img/3nodes.png)
+![image](./img/crowdfund1.png)
 
-<button>[Buy 3Node](https://marketplace.3node.global/index.php)</button>
+<button>[Invest](https://forms.gle/m49YwwCjMN9uiSG89)</button>
 
-Become a **ThreeFold Farmer**, Buy ThreeFold's **3Node**, be the host for our sovereign Digital Life.
+Learn more about how to purchase **Company** shares, and become a co-owner of **Our Venture Creator**.
+
+
 {% end %}
 
 </div>
