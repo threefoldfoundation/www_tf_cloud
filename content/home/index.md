@@ -9,7 +9,7 @@ weight: 1
 <div class="container mx-auto"> 
 <!-- section 1 (header) -->
 
-{% row(margin="withContainer" padding="both") %}
+{% row(margin="withContainer" padding="bottom") %}
 
 <br>
 
