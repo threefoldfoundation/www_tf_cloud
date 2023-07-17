@@ -6,7 +6,7 @@ description: P2P systems are network, not linear or pyramidal hierarchies (tho
 date: 2020-12-15
 taxonomies:
     tags: []
-    categories: [product3]
+    items: [product3]
 extra:
     author: sacha_obeegadoo
     imgPath: peer_to_peer.png

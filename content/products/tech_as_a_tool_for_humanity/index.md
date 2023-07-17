@@ -6,7 +6,7 @@ description: While technology has had an important role in the creation of today
 date: 2022-10-28
 taxonomies:
   tags: []
-  categories: [product4]
+  items: [product4]
 extra:
   author: victoria_obeegadoo
   imgPath: tech_as_a_tool_for_humanity.png

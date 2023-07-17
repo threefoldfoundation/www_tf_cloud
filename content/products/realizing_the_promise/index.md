@@ -4,7 +4,7 @@ description: "Together with our global community, we're realizing the initial pr
 date: 2022-03-21T14:40:00-05:00
 template: blogPage.html
 taxonomies:
-  categories: ["product1"]
+  items: ["product1"]
 extra:
   subtitle: "Together with our global community, we're realizing the initial promise of an open-source, peer-to-peer Internet owned by the people."
   author: "Sacha Obeegadoo"

@@ -6,7 +6,7 @@ description: A decentralized and energy-efficient way for people to expand a new
 date: 2022-03-01
 taxonomies:
     tags: []
-    categories: [product2]
+    items: [product2]
 extra:
     author: sacha_obeegadoo
     imgPath: what_is_farming.png
