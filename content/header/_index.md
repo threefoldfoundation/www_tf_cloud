@@ -12,5 +12,6 @@ extra:
 - [BUYNOW]("/buynow")
 - [SPECS]("/specs")
 - [INFO]("/blog")
+- [PRODUCTS]("/products")
 - [TECHNOLOGY]("/technology")
 - [OURVERSE]("https://ourverse.tf/")
