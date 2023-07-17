@@ -5,8 +5,8 @@ image_caption: What is farming
 description: A decentralized and energy-efficient way for people to expand a new Internet infrastructure.
 date: 2022-03-01
 taxonomies:
-    tags: [peer_to_peer,why,farming,threefold]
-    categories: [how]
+    tags: []
+    categories: [product2]
 extra:
     author: sacha_obeegadoo
     imgPath: what_is_farming.png
