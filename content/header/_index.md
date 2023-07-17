@@ -14,4 +14,5 @@ extra:
 - [INFO]("/blog")
 - [PRODUCTS]("/products")
 - [TECHNOLOGY]("/technology")
+- [PEOPLE]("https://www.threefold.io/people/")
 - [OURVERSE]("https://ourverse.tf/")
