@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ourphone.tf/"
+base_url = "https://www2.ourzone.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
 title = "OurPhone"
