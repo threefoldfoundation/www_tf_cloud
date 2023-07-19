@@ -18,7 +18,7 @@ jobs:
         script: |
           cd websites/www2/www_ourzone/
           git log -1
-	  git fetch
-	  git reset --hard origin/development
+          git fetch
+          git reset --hard origin/development
           sed -i "s/https:\/\/ourzone.ourworld.tf/https:\/\/www2.ourzone.ourworld.tf/g" config.toml
           ./build.sh
