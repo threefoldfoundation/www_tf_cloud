@@ -1,4 +1,4 @@
-name: www2.ourphone.tf
+name: www2.ourzone.ourworld.tf
 on:
   push:
     branches: [ development ]
@@ -8,17 +8,17 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: pushing latest change on www2.ourphone.tf
+    - name: pushing latest change on www2.ourzone.ourworld.tf
       uses: appleboy/ssh-action@master
       with:
-        host: www2.ourphone.tf
+        host: www2.ourzone.ourworld.tf
         username: webuser
         key: ${{ secrets.TF_SECRET }}
         port: 34022
         script: |
-          cd websites/www2/www_ourphone/
+          cd websites/www2/www_ourzone/
           git log -1
-          git restore .
-          git pull
-          sed -i "s/https:\/\/ourphone.tf/https:\/\/www2.ourphone.tf/g" config.toml
+	  git fetch
+	  git reset --hard origin/development
+          sed -i "s/https:\/\/ourzone.ourworld.tf/https:\/\/www2.ourzone.ourworld.tf/g" config.toml
           ./build.sh
