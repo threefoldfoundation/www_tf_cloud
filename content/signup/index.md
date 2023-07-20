@@ -13,7 +13,7 @@ weight: 2
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
 
-<div class="px-4 lg:px-10">
+<div class="px-4 md:px-16 lg:px-28">
 
 # Join OurZone™ Revolution
 

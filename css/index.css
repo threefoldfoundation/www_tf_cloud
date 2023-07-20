@@ -104,14 +104,15 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h3 {
-    @apply text-xl lg:text-2xl font-normal my-4;
+    @apply text-xl lg:text-3xl font-normal my-4;
     color:#1c5d34;
   }
   h3 strong {
     @apply font-medium;
   }
   h4 {
-    @apply text-xl lg:text-xl font-normal;
+    @apply text-xl lg:text-2xl font-normal my-4;
+    color:#1c5d34;
   }
   h5 {
     @apply text-xl lg:text-xl font-normal;

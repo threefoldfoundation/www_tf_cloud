@@ -11,15 +11,11 @@ weight: 1
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
 
-<div class="px-4 lg:px-10">
-
-<br>
-<br>
-<br>
+<div class="px-4 md:px-16 lg:px-28">
 
 # **Welcome to**<br>OurZone&trade;  
 
-### Realize Your Ultimate<br>Entrepreneurial Dreams  <br> with the World’s First <br>Neo-Digital Freezone
+### Realize Your Ultimate Entrepreneurial Dreams with the World’s First Neo-Digital Freezone
 
 <button>[Start Your Journey](/signup)</button>
 
@@ -75,7 +71,7 @@ With **OurZone**, you can embark on your business journey with ease, <br>leverag
 
 ![Image](./img/automation.png#sm#mx-auto)
 
-### Fully Automated Onboarding 
+#### Fully Automated Onboarding 
 Our automated onboarding process, will ensure compliance with KYC and AML regulations at ease and efficiency.
 
 </div>
@@ -86,7 +82,7 @@ Our automated onboarding process, will ensure compliance with KYC and AML regula
 
 ![Image](./img/banking.png#sm#mx-auto)
 
-### Banking & Web3 Compatible
+#### Banking & Web3 Compatible
 Seamlessly manage both fiat and digital currencies with our comprehensive banking solutions compatible with Web3 technologies.
 
 </div>
@@ -96,19 +92,21 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 <div class="mx-4 my-4">
 
 ![Image](./img/jurisdiction.png#sm#mx-auto)
-### Built-in Legal & Tax Settlement
+#### Built-in Legal & Tax Settlement
  Experience hassle-free business operations, as we provide built-in legal and tax settlement services, simplifying legal obligations.
 
 </div>
 
 {% end %}
 
+<br>
+
 {% row(style="center" margin="narrow" padding="none") %}
 
 <div class="mx-4 my-4">
 
 ![Image](./img/license.png#sm#mx-auto)
-### Affordable & Flexible Trade Licenses
+#### Affordable & Flexible Trade Licenses
 OurZone™ offers cost-effective and flexible commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
@@ -118,7 +116,7 @@ OurZone™ offers cost-effective and flexible commercial trade licenses, making 
 <div class="mx-4 my-4">
 
 ![Image](./img/fe.png#sm#mx-auto)
-### Sovereign Economic Jurisdiction 
+#### Sovereign Economic Jurisdiction 
 OurZone™ empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
 
 </div>
@@ -154,7 +152,7 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 ![Image](./img/1a.png#sm#mx-auto)
 
-### Individual Licensing
+#### Individual Licensing
  Purchase a single trade license valid for 3 years at the price of 1,000 USD.
 
 <button>[Get License](/signup)</button>
@@ -166,7 +164,9 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 <div class="mx-4 my-4">
 
 ![Image](./img/2a.png#sm#mx-auto)
-### Bulk Licensing
+
+#### Bulk Licensing
+
 50% for purchase of 10+ licenses with the option to commercially resale.
 
 <button>[Get License](/signup)</button>
@@ -179,8 +179,10 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 <div class="mx-4 my-4">
 
 ![Image](./img/3a.png#sm#mx-auto)
-### Custom Licensing 
- Please contact us for tailored provisions for your community or organization.
+
+#### Custom Licensing
+
+Please contact us for tailored provisions for your community or organization.
 
 <button>[Get License](/signup)</button>
 
@@ -195,7 +197,7 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="top") %}
 
-<div class="px-4 lg:px-10">
+<div class="px-4 md:px-16 lg:px-28">
 
 ## Referral Program
 
