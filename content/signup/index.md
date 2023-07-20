@@ -7,14 +7,16 @@ draft: false
 weight: 2
 ---
 
-<div class="container mx-auto">
+
 
 <!-- section 1 (co-found) -->
 <br>
 
 <br>
 
-{% row(style="right" margin="header" padding="top") %}
+{% row(style="right" margin="none" reverse="rightreserve" padding="bottom") %}
+
+<div class="px-4 lg:px-10">
 
 ## Join OurZone™ Revolution
 
@@ -24,11 +26,15 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 <br> 
 <button>[Sign Up Now](mailto:info@ourworld.tf)</button>
 
+</div>
+
 |||
 
 ![Image](./img/HEADER2.png#mx-auto)
 
 {% end %}
+
+<div class="container mx-auto">
 
 {% row(style="center" margin="header" padding="NONE") %}
 
