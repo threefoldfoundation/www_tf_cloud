@@ -13,7 +13,7 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
-# **Welcome to**<br>OurZone&trade;  
+# **Welcome to** OurZone&trade;  
 
 ### Realize Your Ultimate Entrepreneurial Dreams with the World’s First Neo-Digital Freezone
 
@@ -35,7 +35,7 @@ weight: 1
 
 <!-- section 2 security -->
 
-{% row(margin="withContainer" padding="bottom") %}
+{% row(style="left" margin="withContainer" padding="bottom") %}
 
 ![placeholder](./img/freezone2.png#mx-auto)
 
