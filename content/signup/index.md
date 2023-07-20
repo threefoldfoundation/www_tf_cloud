@@ -11,7 +11,6 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-
 {% row(style="right" margin="none" reverse="rightreserve" padding="bottom") %}
 
 <div class="px-4 lg:px-10">
@@ -28,8 +27,11 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 |||
 
+<div class="py-4 lg:pt-12">
+
 ![Image](./img/HEADER2.png#mx-auto)
 
+</div>
 {% end %}
 
 <div class="container mx-auto">
