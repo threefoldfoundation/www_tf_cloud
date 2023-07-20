@@ -27,7 +27,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 |||
 
-<div class="py-4 lg:pt-12">
+<div class="pt-0 lg:pt-12">
 
 ![Image](./img/HEADER2.png#mx-auto)
 
