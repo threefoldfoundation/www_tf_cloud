@@ -9,9 +9,9 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(style="center" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(margin="none" reverse="rightreserve" padding="bottom") %}
 
-<div class="px-4 lg:px-10">
+<div class="px-4 md:px-16 lg:px-28">
 
 ## Welcome to OurZone&trade;  
 
