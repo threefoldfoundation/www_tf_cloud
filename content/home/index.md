@@ -76,7 +76,7 @@ With **OurZone**, you can embark on your business journey with ease, <br>leverag
 ![Image](./img/automation.png#sm#mx-auto)
 
 ### Fully Automated Onboarding 
-Effortlessly become part of OurZone™ through our automated onboarding process, ensuring compliance with KYC and AML regulations.
+Our automated onboarding process, will ensure compliance with KYC and AML regulations at ease and efficiency.
 
 </div>
 
@@ -87,7 +87,7 @@ Effortlessly become part of OurZone™ through our automated onboarding process,
 ![Image](./img/banking.png#sm#mx-auto)
 
 ### Banking & Web3 Compatible
-Seamlessly manage both fiat and digital currencies with OurZone™, empowering you with comprehensive banking solutions compatible with Web3 technologies.
+Seamlessly manage both fiat and digital currencies with our comprehensive banking solutions compatible with Web3 technologies.
 
 </div>
 
@@ -109,7 +109,7 @@ Seamlessly manage both fiat and digital currencies with OurZone™, empowering y
 
 ![Image](./img/license.png#sm#mx-auto)
 ### Affordable & Flexible Trade Licenses
-OurZone™ offers cost-effective commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
+OurZone™ offers cost-effective and flexible commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
 
@@ -129,7 +129,7 @@ OurZone™ empowers businesses to operate within an independent economic environ
 
 ![Image](./img/secure.png#sm#mx-auto)
 ### Powered by Data Sovereign Tech
-Your Privacy, Your Data, Your Security. Benefit from quantum-secure storage, empowering you to control and safeguard your digital information.
+Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower you to safeguard your digital information.
 
 </div>
 
@@ -180,7 +180,7 @@ Your Privacy, Your Data, Your Security. Benefit from quantum-secure storage, emp
 
 ![Image](./img/3a.png#sm#mx-auto)
 ### Custom Licensing 
- Contact us for tailored provisions for your community or organization.
+ Please contact us for tailored provisions for your community or organization.
 
 <button>[Get License](/signup)</button>
 
