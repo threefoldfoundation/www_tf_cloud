@@ -98,17 +98,17 @@ Parameters:
     {% if "none" in margin %}
         {% set margin_class = " mx-0" %}
     {% elif "wide" in margin %}
-        {% set margin_class = " mx-8 sm:mx-8 md:mx-12 lg:mx-16 xl:mx-20 " %}
+        {% set margin_class = " mx-4 sm:mx-8 md:mx-12 lg:mx-16 xl:mx-20 " %}
     {% elif "moderate" in margin %}
-        {% set margin_class = " mx-8 sm:mx-16 md:mx-20 lg:mx-28" %}
+        {% set margin_class = " mx-4 sm:mx-16 md:mx-20 lg:mx-28" %}
     {% elif "narrow" in margin %}
-        {% set margin_class = " mx-8 sm:mx-20 md:mx-28 lg:mx-40" %}
+        {% set margin_class = " mx-4 sm:mx-20 md:mx-28 lg:mx-40" %}
     {% elif "tight" in margin %}
-        {% set margin_class = " mx-8 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
+        {% set margin_class = " mx-4 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
     {% elif "header" in margin %}
-        {% set margin_class = " mx-8 sm:mx-20 md:mx-28 lg:mx-40 my-10" %}
+        {% set margin_class = " mx-4 sm:mx-20 md:mx-28 lg:mx-40 my-10" %}
     {% elif "withContainer" in margin %}
-        {% set margin_class = " mx-8 " %}
+        {% set margin_class = " mx-4 " %}
     {% endif %}
     {% if "lean-left" in margin %}
         {% set margin = margin_class | replace(from=" ", to=" first:")%}
