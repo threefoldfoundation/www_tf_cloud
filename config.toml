@@ -2,7 +2,7 @@
 base_url = "https://www2.ourzone.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "OurPhone"
+title = "OurZone"
 description="Sovereign SmartPhone Like No Other"
 
 # When set to "true", a feed is automatically generated.

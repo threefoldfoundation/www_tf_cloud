@@ -1,167 +1,234 @@
 ---
-title: "OurPhone"
+title: "OurZone"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
 weight: 1
 ---
-<div class="container mx-auto"> 
+
 <!-- section 1 (header) -->
 
-{% row(margin="withContainer" padding="bottom") %}
+{% row(style="center" margin="none" reverse="rightreserve" padding="bottom") %}
+
+<div class="px-4 lg:px-10">
+
+## Welcome to OurZone&trade;  
+
+### Realize your entrepreneurial dreams  <br> with the World’s First Neo-Digital™ Freezone 
+
+Step into the future of entrepreneurship with OurZone™, the revolutionary Neo-Digital Freezone that brings your entrepreneurial aspirations to life. <br>
+<br>Seamlessly integrate digital banking, licensing, legal services, and tax requirements, all within a cutting-edge platform designed to streamline and simplify every aspect of your business journey. 
+
+<button>[Sign Up Now](/signup)</button>
+
+</div>
 
 <br>
-
-![placeholder](./img/placeholder.png#mx-auto)
-
 
 |||
 
-<br>
-
-# Meet<br> OurPhone&trade;
-
-
-Experience True Sovereignty at Your Fingertips <br>
-with the World’s First Truly Decentralized Smartphone.
-
-<button>[Learn More](/specs)</button>
+![placeholder](./img/oz_home.png#mx-auto)
 
 {% end %}
+
+<div class="container mx-auto"> 
+
+
 
 <!-- section 2 security -->
 
-{% row(style="right" reverse="rightreserve" margin="withContainer" padding="top") %}
+{% row(margin="withContainer" padding="bottom") %}
 
-# Secure<br> Every Click
- 
-
-Every application of __OurPhone&trade;__ is fully encrypted. <br>
-Have no concerns about your data being manipulated or stolen.
-
-<button>[Learn More](/technology)</button>
+![placeholder](./img/freezone2.png#mx-auto)
 
 |||
 
-![secure](./img/secure.png#mx-auto)
+## World's First <br>Neo Digital Freezone
+
+### Empowering Your Business with Seamless Digital Solutions
+ 
+ Embrace the future with ease as we provide a revolutionary platform where you can effortlessly obtain a digital trade license, open a bank account supporting both fiat and cryptocurrencies, and seamlessly handle your legal requirements and taxes, all within a single, streamlined platform. <br>
+ <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.
+
+<button>[Learn More](/technology)</button>
 
 {% end %}
+
+
 
 <!-- section 3 features title -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-# Decentralized Smartphone <br> Like No Other
+## Where Freedom Meets Efficiency
 
+With **OurZone**, you can embark on your business journey with ease, leveraging our cutting-edge technology to streamline every step of the process.
 
-Discover many unique features of __OurPhone&trade;__ that makes it <br>the ultimate decentralized smartphone like no other.
+<br>
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-![Image](./img/data.png#sm#mx-auto)
+<div class="mx-4 my-4">
 
-### 100% Data Ownership
-With __OurPhone&trade;__, you are the sole owner of your data, will always be, not some giant tech companies.
+![Image](./img/automation.png#sm#mx-auto)
 
-|||
+### Fully Automated Onboarding 
+Effortlessly become part of OurZone™ through our automated onboarding process, ensuring compliance with KYC and AML regulations.
 
-![Image](./img/qss.png#sm#mx-auto)
-
-### Quantum Safe Storage
-Enjoy decentralized cloud storage benefit that comes with every __OurPhone&trade;__ Apps subscription.
+</div>
 
 |||
 
-![Image](./img/ourapps.png#sm#mx-auto)
-### Introducing __OurVerse&trade;__
-__OurApps&trade;__: decentralized SuperApps powered by  __OurPhone&trade;__ are ready to meet our needs.
+<div class="mx-4 my-4">
+
+![Image](./img/banking.png#sm#mx-auto)
+
+### Banking & Web3 Compatible
+Seamlessly manage both fiat and digital currencies with OurZone™, empowering you with comprehensive banking solutions compatible with Web3 technologies.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/jurisdiction.png#sm#mx-auto)
+### Built-in Jurisdiction & Tax Settlement 
+ Experience hassle-free business operations, as we provide built-in jurisdiction and tax settlement services, simplifying legal obligations.
+
+</div>
+
+{% end %}
+
+<br>
+
+
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/license.png#sm#mx-auto)
+### Affordable Commercial Trade Licenses
+OurZone™ offers cost-effective commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/fe.png#sm#mx-auto)
+### Sovereign Economic Jurisdiction 
+OurZone™ empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/cta.png#sm#mx-auto)
+### Call-to-action button for sign-up or subscription
+Take the first step towards success to embrace the future of digital entrepreneurship with OurZone™.
+
+</div>
+
+{% end %}
+
+
+
+<!-- section 5 subscription -->
+
+{% row(style="center" margin="narrow" padding="top") %}
+
+## OurZone&trade; <br> Subscription Packages
+
+<br>
+
+Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our daily needs and protect our data sovereignty.
+
+<br>
 
 {% end %}
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
-![Image](./img/decentralized.png#sm#mx-auto)
-### Decentralized Network Support
-__OurVerse&trade;__ are hosted on the world's largest decentralized network. Join the movement.
+<div class="mx-4 my-4">
+
+![Image](./img/1.png#sm#mx-auto)
+
+### Individual Licensing
+ $1,000 for a 3-year license<br>
+ Description of features and benefits<br>
+ Call-to-action button for individual subscription<br>
+
+<button>[Get License](/signup)</button>
+
+</div>
 
 |||
 
-![Image](./img/edge.png#sm#mx-auto)
-### Edge Computing Speed
-Experience unparalleled usage speed with __OurVerse&trade;__'s latest edge cloud technology.
+<div class="mx-4 my-4">
 
+![Image](./img/2.png#sm#mx-auto)
+### Bulk Licensing
+ $1,000 for a 3-year license<br>
+ Description of features and benefits<br>
+ Call-to-action button for individual subscription<br>
+
+<button>[Get License](/signup)</button>
+
+</div>
 
 |||
 
-![Image](./img/planetary.png#sm#mx-auto)
-### Fully Encrypted Communication
-Any transfer of data is powered by __Planetary Network&trade;__: a fully encrypted network technology.
 
-{% end %}
+<div class="mx-4 my-4">
 
-<!-- section 5 apps -->
+![Image](./img/3.png#sm#mx-auto)
+### Bespoke Licensing
+ $1,000 for a 3-year license <br>
+ Description of features and benefits <br>
+ CTA button for individual subscription <br>
 
-{% row(style="center" margin="narrow" padding="top") %}
-
-# OurVerse&trade; <br> Our Limitless Possibilities
-
-Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our daily needs and protect our data sovereignty.
-
-{% end %}
-
-{% row(style="center" margin="withContainer" padding="bottom") %}
-
-![Image](./img/manyapps.png#mx-auto)
-
-<br>
-
-<button>[See Specs](/specs)</button>
-
-{% end %}
-
-<!-- section 5 apps -->
-
-{% row(style="center" margin="withContainer" padding="top") %}
-
-# Powered by
-# ThreeFold
-
-The world’s largest decentralized network by __ThreeFold__ allows every application<br> on the __OurApps&trade;__ to attain a level of security and privacy like never seen before.
-
-{% end %}
-
-{% row(style="center" margin="withContainer" padding="bottom") %}
-
-![Image](./img/tf.png#mx-auto)
-
-<br>
-
-<button>[Learn More](/technology)</button>
-
-{% end %}
-
-
-<!-- section 6 Buy -->
-
-{% row(style="center" margin="withContainer" padding="both") %}
-
-# OurPhone&trade;
-
-![Image](./img/placeholder.png#medium#mx-auto)
-<br>
-<br>
-
-### __A Truly Decentralized Smartphone__ 
-### __Like No Other__
-
-
-<button>[Buy Now](/buynow)</button>
-
-
+<button>[Get License](/signup)</button>
 
 {% end %}
 
 </div>
+
+</div>
+
+
+<!-- section 6 Buy -->
+
+{% row(style="right" margin="none" reverse="rightreserve" padding="top") %}
+
+<div class="px-4 lg:px-10">
+
+## Referral Program
+
+### Earn Rewards for Sharing the Future of Neo-Digital Freezone
+
+Be a part of our referral program and unlock exciting rewards by sharing the revolutionary OurZone™ platform with others. <br>
+<br>Spread the word about the world's first Neo-Digital Freezone and earn a 10% commission for every successful referral made through your unique affiliate code. 
+
+<br>
+
+<button>[Become an Affiliate Today](/signup)</button>
+
+</div>
+
+|||
+
+
+![Image](./img/referral2.png#lg#mx-auto)
+
+
+
+{% end %}
+
