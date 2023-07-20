@@ -36,7 +36,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 <div class="container mx-auto">
 
-{% row(style="center" margin="header" padding="NONE") %}
+{% row(style="center" margin="narrow" padding="NONE") %}
 
 ## Powered by ThreeFold
 
@@ -45,7 +45,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 <br>
 
 The world’s largest decentralized network by **ThreeFold**
-allows every application on the OurApps™ to attain a level of security and privacy like never seen before.
+allows every application on the OurApps™ <br>to attain a level of security and privacy like never seen before.
 
 <br>
 
