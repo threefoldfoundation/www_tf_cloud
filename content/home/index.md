@@ -58,7 +58,7 @@ Strategically positioned at the crossroads of Africa and the Indian Ocean, Zanzi
 
 <div class="mx-4 my-4">
 
-![Image](./img/tz2.png#md#mx-auto)
+![Image](./img/tz4.png#md#mx-auto)
 
 #### Rapid Economic Growth
  In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% per year, showcasing the country's strong economic performance.
@@ -259,6 +259,6 @@ Be a part of our referral program and unlock exciting rewards by sharing the rev
 |||
 
 
-![Image](./img/referral2.png#lg#mx-auto)
+![Image](./img/referral3.png#lg#mx-auto)
 
 {% end %}
