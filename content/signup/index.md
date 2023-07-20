@@ -15,7 +15,7 @@ weight: 2
 
 <div class="px-4 lg:px-10">
 
-## Join OurZone™ Revolution
+# Join OurZone™ Revolution
 
 ### Be the First to Experience the Future of Neo-Digital Freezone
 
