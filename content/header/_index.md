@@ -8,11 +8,6 @@ extra:
   imgPath: ""
 ---
 
-- [OURPHONE]("/")
-- [BUYNOW]("/buynow")
-- [SPECS]("/specs")
-- [INFO]("/blog")
-- [PRODUCTS]("/products")
-- [TECHNOLOGY]("/technology")
-- [PEOPLE]("https://www.threefold.io/people/")
-- [OURVERSE]("https://ourverse.tf/")
+- [OURZONE]("/")
+- [SIGN UP]("/signup")
+- [BLOG]("/blog")

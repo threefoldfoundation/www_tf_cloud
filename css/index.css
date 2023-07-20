@@ -94,8 +94,9 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-3xl md:text-5xl lg:text-7xl font-bold leading-4 my-4;
+    @apply text-3xl md:text-4xl lg:text-6xl font-bold leading-4 my-4;
     font-family: "lato", sans-serif;
+    line-height: 0.9;
     
     
   }
@@ -104,12 +105,14 @@ img[src*="#fig"] {
   }
   h3 {
     @apply text-xl lg:text-3xl font-normal my-4;
+    color:#1c5d34;
   }
   h3 strong {
     @apply font-medium;
   }
   h4 {
-    @apply text-xl lg:text-xl font-normal;
+    @apply text-xl lg:text-2xl font-normal my-4;
+    color:#1c5d34;
   }
   h5 {
     @apply text-xl lg:text-xl font-normal;
@@ -118,7 +121,7 @@ img[src*="#fig"] {
     @apply text-lg not-italic font-normal my-1;
   }
   p {
-    @apply text-base lg:text-xl leading-tight tracking-normal font-normal my-4;
+    @apply text-base lg:text-lg leading-tight tracking-normal font-normal my-0;
     font-family: "CercoDEMO", sans-serif;
   }
   blockquote {
@@ -136,15 +139,18 @@ img[src*="#fig"] {
     lg:text-lg
     px-8
     py-1
-    mr-5
     my-4
     border-2
     shadow
   }
 }
 
+a:hover{
+  color: #1c5d34;
+}
+
 button:hover  {
-  color: #984210;
+  color: #1c5d34;
 }
 
 button  {
@@ -180,12 +186,13 @@ header .customize {
 
 footer .customize {
     /* width: 100vw; */
-    background-color: #d7d7d7;
+    color: #fff;
+    background-color: #1c5d34;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 footer .customize img {
@@ -202,10 +209,10 @@ header .customize div {
 button {
   background: transparent;
   color: black;
-  border-radius: 10px;
+  border-radius: 4px;
   border: 2px solid black;
   box-shadow: none;
-  font-size: 20px;
+  /* font-size: 18px; */
 }
 
 a {
@@ -357,9 +364,9 @@ header {
   transform: none;
 }
 @media (max-width: 768px) {
-  h2 {
+  /* h2 {
     font-size: 4rem;
-  }
+  } */
 }
 @media (max-width: 640px) {
   .banner h2 {
@@ -381,7 +388,7 @@ header {
     padding: 80px 0;
   }
 
-  h2 {
+  /* h2 {
     font-size: 3rem;
-  }
+  } */
 }
