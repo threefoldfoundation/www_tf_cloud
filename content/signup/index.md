@@ -10,9 +10,7 @@ weight: 2
 
 
 <!-- section 1 (co-found) -->
-<br>
 
-<br>
 
 {% row(style="right" margin="none" reverse="rightreserve" padding="bottom") %}
 
