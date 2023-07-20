@@ -29,7 +29,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 <div class="pt-0 lg:pt-12">
 
-![Image](./img/header3.png#mx-auto)
+![Image](./img/header4.png#mx-auto)
 
 </div>
 {% end %}
@@ -82,7 +82,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 <div class="mx-4 my-4">
 
- ![Image](./img/4.png#sm#mx-auto)
+ ![Image](./img/4a.png#sm#mx-auto)
 
 #### Easy Onboarding
 We will smoothly guide you through the rest of our onboarding process, welcome onboard!

@@ -29,9 +29,53 @@ weight: 1
 
 {% end %}
 
+<!-- section 2 (header) -->
+
 <div class="container mx-auto"> 
 
+{% row(style="center" margin="withContainer" padding="none") %}
 
+## **Dreams Begin in** Paradise
+
+### Embrace the Thriving Business Landscape
+ 
+Discover why Zanzibar is an ideal investment destinations for your business. <br>With a booming economy and favorable business climate, the region offers a host of advantages to drive your entrepreneurial success.
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/tz3.png#md#mx-auto)
+
+#### Strategic Location
+Strategically positioned at the crossroads of Africa and the Indian Ocean, Zanzibar offer unrivaled access to regional and international markets.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/tz4.png#md#mx-auto)
+
+#### Rapid Economic Growth
+ In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% per year, showcasing the country's strong economic performance.
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/tz1.png#md#mx-auto)
+
+#### Business-Friendly Policies
+World Bank's report ranked Tanzania as one of the top 10 most improved economies globally in 2020, highlighting efforts to simplify business regulations.
+
+</div>
+
+{% end %}
 
 <!-- section 2 security -->
 
@@ -215,6 +259,6 @@ Be a part of our referral program and unlock exciting rewards by sharing the rev
 |||
 
 
-![Image](./img/referral2.png#lg#mx-auto)
+![Image](./img/referral3.png#lg#mx-auto)
 
 {% end %}
