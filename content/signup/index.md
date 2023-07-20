@@ -29,12 +29,67 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 <div class="pt-0 lg:pt-12">
 
-![Image](./img/HEADER2.png#mx-auto)
+![Image](./img/HEADER3.png#mx-auto)
 
 </div>
 {% end %}
 
+<!-- section 2 steps -->
+
 <div class="container mx-auto">
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+## Kickstart Your Journey
+### Sign Up Now and Realize Your Digital Entrepreneurial Dreams
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/1.png#sm#mx-auto)
+
+#### Write Email to Us
+ Share your interest, and we'll be in touch promptly to guide you through the process.
+
+ </div>
+
+|||
+
+<div class="mx-4 my-4">
+
+ ![Image](./img/2.png#sm#mx-auto)
+
+#### Free Consultation Call
+ Enjoy a complimentary consultation call with our experts and tailor our solutions to suit you best.
+
+ </div>
+
+|||
+
+<div class="mx-4 my-4">
+
+ ![Image](./img/3.png#sm#mx-auto)
+
+#### Select Your Package
+ Find the subscription package that perfectly aligns with your business requirements.
+
+ </div>
+
+|||
+
+<div class="mx-4 my-4">
+
+ ![Image](./img/4.png#sm#mx-auto)
+
+#### Easy Onboarding
+We will smoothly guide you through the rest of our onboarding process, welcome onboard!
+
+</div>
+
+{% end %}
 
 {% row(style="center" margin="narrow" padding="NONE") %}
 

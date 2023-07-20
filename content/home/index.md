@@ -25,7 +25,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/oz_home.png#mx-auto)
+![placeholder](./img/oz_home2.png#mx-auto)
 
 {% end %}
 
