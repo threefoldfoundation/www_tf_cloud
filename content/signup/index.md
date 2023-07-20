@@ -29,7 +29,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 <div class="pt-0 lg:pt-12">
 
-![Image](./img/HEADER3.png#mx-auto)
+![Image](./img/header3.png#mx-auto)
 
 </div>
 {% end %}
