@@ -9,18 +9,19 @@ weight: 1
 
 <!-- section 1 (header) -->
 
-{% row(margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
 
-<div class="px-4 md:px-16 lg:px-28">
+<div class="px-4 lg:px-10">
 
-## Welcome to OurZone&trade;  
+<br>
+<br>
+<br>
 
-### Realize your entrepreneurial dreams  <br> with the World’s First Neo-Digital™ Freezone 
+# **Welcome to**<br>OurZone&trade;  
 
-Step into the future of entrepreneurship with OurZone™, the revolutionary Neo-Digital Freezone that brings your entrepreneurial aspirations to life. <br>
-<br>Seamlessly integrate digital banking, licensing, legal services, and tax requirements, all within a cutting-edge platform designed to streamline and simplify every aspect of your business journey. 
+### Realize Your Ultimate<br>Entrepreneurial Dreams  <br> with the World’s First <br>Neo-Digital Freezone
 
-<button>[Sign Up Now](/signup)</button>
+<button>[Start Your Journey](/signup)</button>
 
 </div>
 
@@ -44,26 +45,25 @@ Step into the future of entrepreneurship with OurZone™, the revolutionary Neo-
 
 |||
 
-## World's First <br>Neo Digital Freezone
+## **World's First** <br>Neo Digital Freezone
 
 ### Empowering Your Business with Seamless Digital Solutions
  
- Embrace the future with ease as we provide a revolutionary platform where you can effortlessly obtain a digital trade license, open a bank account supporting both fiat and cryptocurrencies, and seamlessly handle your legal requirements and taxes, all within a single, streamlined platform. <br>
- <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.
+ Embrace the future with ease as we provide a revolutionary platform where you can obtain a digital trade license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
+ <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.<br><br>
 
-<button>[Learn More](/technology)</button>
+<button>[Sign Up Now](/signup)</button>
 
 {% end %}
 
-
-
 <!-- section 3 features title -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
-## Where Freedom Meets Efficiency
+## **OurZone&trade;** Benefits
+### Where Freedom Meets Efficiency
 
-With **OurZone**, you can embark on your business journey with ease, leveraging our cutting-edge technology to streamline every step of the process.
+With **OurZone**, you can embark on your business journey with ease, <br>leveraging our cutting-edge technology to streamline every step of the process.
 
 <br>
 
@@ -96,23 +96,19 @@ Seamlessly manage both fiat and digital currencies with OurZone™, empowering y
 <div class="mx-4 my-4">
 
 ![Image](./img/jurisdiction.png#sm#mx-auto)
-### Built-in Jurisdiction & Tax Settlement 
- Experience hassle-free business operations, as we provide built-in jurisdiction and tax settlement services, simplifying legal obligations.
+### Built-in Legal & Tax Settlement
+ Experience hassle-free business operations, as we provide built-in legal and tax settlement services, simplifying legal obligations.
 
 </div>
 
 {% end %}
 
-<br>
-
-
-
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 <div class="mx-4 my-4">
 
 ![Image](./img/license.png#sm#mx-auto)
-### Affordable Commercial Trade Licenses
+### Affordable & Flexible Trade Licenses
 OurZone™ offers cost-effective commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
@@ -131,40 +127,35 @@ OurZone™ empowers businesses to operate within an independent economic environ
 
 <div class="mx-4 my-4">
 
-![Image](./img/cta.png#sm#mx-auto)
-### Call-to-action button for sign-up or subscription
-Take the first step towards success to embrace the future of digital entrepreneurship with OurZone™.
+![Image](./img/secure.png#sm#mx-auto)
+### Powered by Data Sovereign Tech
+Your Privacy, Your Data, Your Security. Benefit from quantum-secure storage, empowering you to control and safeguard your digital information.
 
 </div>
 
 {% end %}
-
-
 
 <!-- section 5 subscription -->
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## OurZone&trade; <br> Subscription Packages
+## **OurZone&trade;** <br>Subscription Packages
+### Tailored Solutions for Your Entrepreneurial Growth
 
-<br>
-
-Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our daily needs and protect our data sovereignty.
+ Explore our diverse range of subscription packages, carefully crafted to cater to your business needs. 
 
 <br>
 
 {% end %}
 
-{% row(style="center" margin="narrow" padding="bottom") %}
+{% row(style="center" margin="narrow" padding="none") %}
 
 <div class="mx-4 my-4">
 
-![Image](./img/1.png#sm#mx-auto)
+![Image](./img/1a.png#sm#mx-auto)
 
 ### Individual Licensing
- $1,000 for a 3-year license<br>
- Description of features and benefits<br>
- Call-to-action button for individual subscription<br>
+ Purchase a single trade license valid for 3 years at the price of 1,000 USD.
 
 <button>[Get License](/signup)</button>
 
@@ -174,11 +165,9 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 <div class="mx-4 my-4">
 
-![Image](./img/2.png#sm#mx-auto)
+![Image](./img/2a.png#sm#mx-auto)
 ### Bulk Licensing
- $1,000 for a 3-year license<br>
- Description of features and benefits<br>
- Call-to-action button for individual subscription<br>
+50% for purchase of 10+ licenses with the option to commercially resale.
 
 <button>[Get License](/signup)</button>
 
@@ -189,11 +178,9 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 <div class="mx-4 my-4">
 
-![Image](./img/3.png#sm#mx-auto)
-### Bespoke Licensing
- $1,000 for a 3-year license <br>
- Description of features and benefits <br>
- CTA button for individual subscription <br>
+![Image](./img/3a.png#sm#mx-auto)
+### Custom Licensing 
+ Contact us for tailored provisions for your community or organization.
 
 <button>[Get License](/signup)</button>
 
@@ -206,7 +193,7 @@ Unlock limitless capabilities with __OurVerse&trade;__ SuperApps that meet our d
 
 <!-- section 6 Buy -->
 
-{% row(style="right" margin="none" reverse="rightreserve" padding="top") %}
+{% row(style="left" margin="none" reverse="rightreserve" padding="top") %}
 
 <div class="px-4 lg:px-10">
 
@@ -228,7 +215,4 @@ Be a part of our referral program and unlock exciting rewards by sharing the rev
 
 ![Image](./img/referral2.png#lg#mx-auto)
 
-
-
 {% end %}
-
