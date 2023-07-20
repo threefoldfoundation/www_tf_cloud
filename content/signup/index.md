@@ -11,7 +11,7 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="right" margin="none" reverse="rightreserve" padding="bottom") %}
+{% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
 
 <div class="px-4 lg:px-10">
 
