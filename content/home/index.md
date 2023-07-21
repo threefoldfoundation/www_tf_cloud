@@ -25,7 +25,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/oz_home2.png#mx-auto)
+![placeholder](./img/oz_home22.png#mx-auto)
 
 {% end %}
 
@@ -169,7 +169,7 @@ OurZone™ empowers businesses to operate within an independent economic environ
 
 <div class="mx-4 my-4">
 
-![Image](./img/secure.png#sm#mx-auto)
+![Image](./img/secure1.png#sm#mx-auto)
 ### Powered by Data Sovereign Tech
 Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower you to safeguard your digital information.
 
@@ -259,6 +259,6 @@ Be a part of our referral program and unlock exciting rewards by sharing the rev
 |||
 
 
-![Image](./img/referral3.png#lg#mx-auto)
+![Image](./img/referral4.png#lg#mx-auto)
 
 {% end %}
