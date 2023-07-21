@@ -15,7 +15,7 @@ weight: 1
 
 # **Welcome to** OurZone&trade;  
 
-### Realize Your Ultimate Entrepreneurial Dreams with the World’s First Neo–Entrepreneurial Freezone
+### Realize Your Ultimate Entrepreneurial Dreams with the World’s First Neo Freezone
 
 <button>[Start Your Journey](/signup)</button>
 
@@ -85,7 +85,7 @@ World Bank's report ranked Tanzania as one of the top 10 most improved economies
 
 |||
 
-## **World's First** <br>Neo–Entrepreneurial Digital Freezone
+## **World's First** <br>Neo Digital Freezone
 
 ### Empowering Your Business with Seamless Solutions
  
@@ -179,37 +179,76 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 <!-- section 5 subscription -->
 
-{% row(style="left" margin="withContainer" padding="both") %}
+{% row(style="center" margin="narrow" padding="top") %}
 
-![](./img/sub1.png#mx-auto)
+## **OurZone&trade;** <br>Subscription Packages
+### Tailored Solutions for Your Entrepreneurial Growth
 
-|||
-
-## **Exclusive** <br>Trade License Presale
-### Secure Your Spot with a Special Offer Price
-
-Be among the first 100,000 to secure your trade license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurZone™ and kickstart your business journey with unprecedented advantages.
+ Explore our diverse range of subscription packages, carefully crafted to cater to your business needs. 
 
 <br>
 
-<button>[Join the Presale](/signup)</button>
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/1a.png#sm#mx-auto)
+
+#### Individual Licensing
+ Purchase a single trade license valid for 3 years at the price of 1,000 USD.
+
+<button>[Get License](/signup)</button>
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/2a.png#sm#mx-auto)
+
+#### Bulk Licensing
+
+50% for purchase of 10+ licenses with the option to commercially resale.
+
+<button>[Get License](/signup)</button>
+
+</div>
+
+|||
+
+
+<div class="mx-4 my-4">
+
+![Image](./img/3a.png#sm#mx-auto)
+
+#### Custom Licensing
+
+Please contact us for tailored provisions for your community or organization.
+
+<button>[Get License](/signup)</button>
 
 {% end %}
 
 </div>
 
+</div>
+
+
 <!-- section 6 Buy -->
 
-{% row(style="left" margin="none" reverse="rightreserve" padding="none") %}
+{% row(style="left" margin="none" reverse="rightreserve" padding="top") %}
 
 <div class="px-4 md:px-16 lg:px-28">
 
 ## Referral Program
 
-### Earn Rewards for Sharing the Future of Neo–Entrepreneurial Freezone
+### Earn Rewards for Sharing the Future of Neo Freezone
 
 Be a part of our referral program and unlock exciting rewards by sharing the revolutionary OurZone™ platform with others. <br>
-<br>Spread the word about the world's first Neo–Entrepreneurial Freezone and earn a 10% commission for every successful referral made through your unique affiliate code. 
+<br>Spread the word about the world's first Neo Freezone and earn a 10% commission for every successful referral made through your unique affiliate code. 
 
 <br>
 

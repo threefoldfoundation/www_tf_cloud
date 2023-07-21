@@ -105,14 +105,14 @@ img[src*="#fig"] {
   }
   h3 {
     @apply text-xl lg:text-3xl font-normal my-4;
-    color:#1c5d34;
+    color:#oab7a9;
   }
   h3 strong {
     @apply font-medium;
   }
   h4 {
     @apply text-xl lg:text-2xl font-normal my-4;
-    color:#1c5d34;
+    color:#oab7a9;
   }
   h5 {
     @apply text-xl lg:text-xl font-normal;
@@ -146,11 +146,11 @@ img[src*="#fig"] {
 }
 
 a:hover{
-  color: #1c5d34;
+  color: #oab7a9;
 }
 
 button:hover  {
-  color: #1c5d34;
+  color: #oab7a9;
 }
 
 button  {
@@ -187,7 +187,7 @@ header .customize {
 footer .customize {
     /* width: 100vw; */
     color: #fff;
-    background-color: #1c5d34;
+    background-color: #19b9f7;
     display: flex;
     flex-direction: column;
     align-items: center;
