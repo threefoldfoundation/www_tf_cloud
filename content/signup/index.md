@@ -51,7 +51,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
 ![Image](./img/1.png#sm#mx-auto)
 
-#### Write Email to Us
+#### Email Us
  Share your interest, and we'll be in touch promptly to guide you through the process.
 
  </div>
@@ -62,7 +62,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
  ![Image](./img/2.png#sm#mx-auto)
 
-#### Free Consultation Call
+#### Free Consultation
  Enjoy a complimentary consultation call with our experts and tailor our solutions to suit you best.
 
  </div>
@@ -73,7 +73,7 @@ Join our exclusive community and be part of the revolutionary Neo-Digital Freezo
 
  ![Image](./img/3.png#sm#mx-auto)
 
-#### Select Your Package
+#### Subscribe
  Find the subscription package that perfectly aligns with your business requirements.
 
  </div>
