@@ -19,7 +19,9 @@ weight: 2
 
 ### Be the First to Experience the Future of Neo–Entrepreneurial Freezone
 
-Be among the first to embark on your digital entrepreneurial journey with OurZone™ by participating in our exclusive presale of trade licensing. Contact us and secure one of the first 100,000 trade licenses at a special offer price, empowering you to leverage the cutting-edge Neo-Entrepreneurial Freezone platform for your business success.  <br>
+Be among the first to embark on your digital entrepreneurial journey with OurZone™ by participating in our exclusive presale of trade licensing. 
+<br>
+Contact us and secure one of the first 100,000 trade licenses at a special offer price, empowering you to leverage the cutting-edge Neo-Entrepreneurial Freezone platform for your business success.  <br>
 
 <button>[Contact Us](mailto:info@ourworld.tf)</button>
 
