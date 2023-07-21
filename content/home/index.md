@@ -192,7 +192,7 @@ Be among the first 100,000 to secure your trade license with our exclusive presa
 
 <br>
 
-<button>[Secure Your Spot](/signup)</button>
+<button>[Join the Presale](/signup)</button>
 
 {% end %}
 
