@@ -17,9 +17,9 @@ weight: 2
 
 # Join OurZone™ Revolution
 
-### Be the First to Experience the Future of Neo–Entrepreneurial Freezone
+### Be the First to Experience the Future of Neo Freezone
 
-Join our exclusive community and be part of the revolutionary Neo–Entrepreneurial Freezone that's transforming the way businesses operate. <br>
+Join our exclusive community and be part of the revolutionary Neo Freezone that's transforming the way businesses operate. <br>
 <br> 
 <button>[Sign Up Now](mailto:info@ourworld.tf)</button>
 
@@ -74,7 +74,7 @@ Join our exclusive community and be part of the revolutionary Neo–Entrepreneur
  ![Image](./img/3.png#sm#mx-auto)
 
 #### Subscribe
- Subscribe and find the trade license that perfectly aligns with your business requirements.
+ Find the subscription package that perfectly aligns with your business requirements.
 
  </div>
 
