@@ -61,7 +61,7 @@ Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar offers eas
 
 <div class="mx-4 my-4">
 
-![Image](./img/economic.jpeg#md#mx-auto)
+![Image](./img/growth.jpeg#md#mx-auto)
 
 #### Rapid Economic Growth
 In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% annually, showcasing the country's strong economic performance.
