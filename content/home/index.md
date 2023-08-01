@@ -13,11 +13,16 @@ weight: 1
 
 <div class="px-4 md:px-16 lg:px-28">
 
-# **Welcome to** OurZone&trade;  
+<br>
+<br>
 
-### Realize Your Ultimate Entrepreneurial Dreams with the World’s First Neo–Entrepreneurial Freezone
+## **Welcome to** OurWorld Digital Free Zone 
 
-<button>[Start Your Journey](/signup)</button>
+### The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
+
+<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
+  Take Part
+</button>
 
 </div>
 
@@ -25,7 +30,7 @@ weight: 1
 
 |||
 
-![placeholder](./img/oz_home22.png#mx-auto)
+![placeholder](./img/home_sam.png#mx-auto)
 
 {% end %}
 
@@ -35,11 +40,9 @@ weight: 1
 
 {% row(style="center" margin="withContainer" padding="none") %}
 
-## **Dreams Begin in** Paradise
+## **Why** Zanzibar?
 
-### Embrace the Thriving Business Landscape
- 
-Discover why Zanzibar is an ideal investment destinations for your business. <br>With a booming economy and favorable business climate, the region offers a host of advantages to drive your entrepreneurial success.
+### A Unique Business Landscape
 
 {% end %}
 
@@ -47,10 +50,10 @@ Discover why Zanzibar is an ideal investment destinations for your business. <br
 
 <div class="mx-4 my-4">
 
-![Image](./img/tz3.png#md#mx-auto)
+![Image](./img/strategic.jpeg#md#mx-auto)
 
 #### Strategic Location
-Strategically positioned at the crossroads of Africa and the Indian Ocean, Zanzibar offer unrivaled access to regional and international markets.
+Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar offers easy access to regional and international markets.
 
 </div>
 
@@ -58,20 +61,20 @@ Strategically positioned at the crossroads of Africa and the Indian Ocean, Zanzi
 
 <div class="mx-4 my-4">
 
-![Image](./img/tz4.png#md#mx-auto)
+![Image](./img/economic.jpeg#md#mx-auto)
 
 #### Rapid Economic Growth
- In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% per year, showcasing the country's strong economic performance.
+In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% annually, showcasing the country's strong economic performance.
 </div>
 
 |||
 
 <div class="mx-4 my-4">
 
-![Image](./img/tz1.png#md#mx-auto)
+![Image](./img/president.jpeg#md#mx-auto)
 
 #### Business-Friendly Policies
-World Bank's report ranked Tanzania as one of the top 10 most improved economies globally in 2020, highlighting efforts to simplify business regulations.
+A World Bank report ranked Tanzania as one of the top 10 most improved economies globally in 2020, and Zanzibar's President has expressed a willingness to adapt its regulations and policies.
 
 </div>
 
@@ -81,18 +84,20 @@ World Bank's report ranked Tanzania as one of the top 10 most improved economies
 
 {% row(style="left" margin="withContainer" padding="bottom") %}
 
-![placeholder](./img/freezone2.png#mx-auto)
+![placeholder](./img/digitanomad.png#mx-auto)
 
 |||
 
-## **World's First** <br>Neo–Entrepreneurial Digital Freezone
+## Simple. Streamlined.
 
-### Empowering Your Business with Seamless Solutions
- 
- Embrace the future with ease as we provide a revolutionary platform where you can obtain a digital trade license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
+### An affordable way to operate your business, for anyone, from anywhere
+
+For the entrepreneur, the digital nomad, or any company, we provide a revolutionary platform where you can obtain a digital trade license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
  <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.<br><br>
 
-<button>[Sign Up Now](/signup)</button>
+<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
+  Sign Up Now
+</button>
 
 {% end %}
 
@@ -100,10 +105,10 @@ World Bank's report ranked Tanzania as one of the top 10 most improved economies
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-## **OurZone&trade;** Benefits
-### Where Freedom Meets Efficiency
+## Our Benefits
+### Where freedom meets efficiency
 
-With **OurZone**, you can embark on your business journey with ease, <br>leveraging our cutting-edge technology to streamline every step of the process.
+With **OurWorld Digital Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
 
 <br>
 
@@ -113,7 +118,7 @@ With **OurZone**, you can embark on your business journey with ease, <br>leverag
 
 <div class="mx-4 my-4">
 
-![Image](./img/automation.png#sm#mx-auto)
+![Image](./img/automated.png#sm#mx-auto)
 
 #### Fully Automated Onboarding 
 Our automated onboarding process, will ensure compliance with KYC and AML regulations at ease and efficiency.
@@ -124,7 +129,7 @@ Our automated onboarding process, will ensure compliance with KYC and AML regula
 
 <div class="mx-4 my-4">
 
-![Image](./img/banking.png#sm#mx-auto)
+![Image](./img/compatible.png#sm#mx-auto)
 
 #### Banking & Web3 Compatible
 Seamlessly manage both fiat and digital currencies with our comprehensive banking solutions compatible with Web3 technologies.
@@ -135,7 +140,7 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 <div class="mx-4 my-4">
 
-![Image](./img/jurisdiction.png#sm#mx-auto)
+![Image](./img/legal.png#sm#mx-auto)
 #### Built-in Legal & Tax Settlement
  Experience hassle-free business operations, as we provide built-in legal and tax settlement services, simplifying legal obligations.
 
@@ -149,9 +154,9 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 <div class="mx-4 my-4">
 
-![Image](./img/license.png#sm#mx-auto)
+![Image](./img/flexible.png#sm#mx-auto)
 #### Affordable & Flexible Trade Licenses
-OurZone™ offers cost-effective and flexible commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
+OurWorld offers cost-effective and flexible commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
 
@@ -159,9 +164,9 @@ OurZone™ offers cost-effective and flexible commercial trade licenses, making 
 
 <div class="mx-4 my-4">
 
-![Image](./img/fe.png#sm#mx-auto)
+![Image](./img/sovereign.png#sm#mx-auto)
 #### Sovereign Economic Jurisdiction 
-OurZone™ empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+OurWorld empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
 
 </div>
 
@@ -169,8 +174,8 @@ OurZone™ empowers businesses to operate within an independent economic environ
 
 <div class="mx-4 my-4">
 
-![Image](./img/secure1.png#sm#mx-auto)
-### Powered by Data Sovereign Tech
+![Image](./img/tech.png#sm#mx-auto)
+#### Powered by Data Sovereign Tech
 Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower you to safeguard your digital information.
 
 </div>
@@ -181,45 +186,21 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 {% row(style="left" margin="withContainer" padding="both") %}
 
-![](./img/sub1.png#mx-auto)
+![](./img/line.png#mx-auto)
 
 |||
 
-## **Exclusive** <br>Trade License Presale
-### Secure Your Spot with a Special Offer Price
+## Trade License Presale
+### Secure your spot with a Special Offer Price
 
-Be among the first 100,000 to secure your trade license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurZone™ and kickstart your business journey with unprecedented advantages.
+Be among the first to secure your trade license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Digital Free Zone and kickstart your business journey with unprecedented advantages.
 
 <br>
 
-<button>[Join the Presale](/signup)</button>
+<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
+  Join the Presale
+</button>
 
 {% end %}
 
 </div>
-
-<!-- section 6 Buy -->
-
-{% row(style="left" margin="none" reverse="rightreserve" padding="none") %}
-
-<div class="px-4 md:px-16 lg:px-28">
-
-## Referral Program
-
-### Earn Rewards for Sharing the Future of Neo–Entrepreneurial Freezone
-
-Be a part of our referral program and unlock exciting rewards by sharing the revolutionary OurZone™ platform with others. <br>
-<br>Spread the word about the world's first Neo–Entrepreneurial Freezone and earn a 10% commission for every successful referral made through your unique affiliate code. 
-
-<br>
-
-<button>[Become an Affiliate Today](/signup)</button>
-
-</div>
-
-|||
-
-
-![Image](./img/referral4.png#lg#mx-auto)
-
-{% end %}
