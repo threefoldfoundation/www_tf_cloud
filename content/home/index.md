@@ -61,7 +61,7 @@ Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar has a rich
 
 <div class="mx-4 my-4">
 
-![Image](./img/growth.jpeg#md#mx-auto)
+![Image](./img/economicgrowth.jpeg#md#mx-auto)
 
 #### Rapid Economic Growth
 In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% annually, showcasing the country's strong economic performance.
@@ -92,7 +92,7 @@ A World Bank report ranked Tanzania as one of the top 10 most improved economies
 
 ### An affordable way to operate your business, for anyone, from anywhere
 
-For the entrepreneur, the digital nomad, or any company, we provide a revolutionary platform where you can obtain a digital trade license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
+For the entrepreneur, the digital nomad, or any company, we provide a revolutionary platform where you can obtain a digital company license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
  <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.<br><br>
 
 <button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
@@ -155,8 +155,8 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 <div class="mx-4 my-4">
 
 ![Image](./img/flexible.png#sm#mx-auto)
-#### Affordable & Flexible Trade Licenses
-OurWorld offers cost-effective and flexible commercial trade licenses, making it easier to kickstart your entrepreneurial journey.
+#### Affordable & Flexible Company Licenses
+OurWorld offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
 
@@ -186,14 +186,14 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 
 {% row(style="left" margin="withContainer" padding="both") %}
 
-![](./img/line.png#mx-auto)
+![](./img/presale.png#mx-auto)
 
 |||
 
-## Trade License Presale
+## Company License Presale
 ### Secure your spot with a Special Offer Price
 
-Be among the first to secure your trade license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Digital Free Zone and kickstart your business journey with unprecedented advantages.
+Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Digital Free Zone and kickstart your business journey with unprecedented advantages.
 
 <br>
 
