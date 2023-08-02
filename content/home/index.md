@@ -202,3 +202,23 @@ Be among the first to secure your company license with our exclusive presale off
 </button>
 
 {% end %}
+
+<!-- section 6 in the news -->
+
+{% row(style="center" padding="bottom") %}
+
+[![citizen](img/citizen.png#small)](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-seeks-to-become-digital-freezone--4316150)
+
+|||
+
+[![biafrica](img/biafrica.png#small)](https://africa.businessinsider.com/local/markets/zanzibar-is-looking-to-explore-other-economic-options-outside-of-tourism/bxxl3wh)
+
+|||
+
+[![ippmedia](img/ippmedia.png#small)](https://www.ippmedia.com/en/features/mwinyi-keen-establish-digital-hub-isles)
+
+|||
+
+[![dailynews](img/dailynews.png#small)](https://dailynews.co.tz/mwinyi-commits-to-improvement-of-digital-spaces/)
+
+{% end %}
