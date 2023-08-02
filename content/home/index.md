@@ -1,5 +1,5 @@
 ---
-title: "OurZone"
+title: "OurWorld"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -53,7 +53,7 @@ weight: 1
 ![Image](./img/strategic.jpeg#md#mx-auto)
 
 #### Strategic Location
-Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar offers easy access to regional and international markets.
+Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar has a rich and diverse culture and offers easy access to regional and international markets.
 
 </div>
 
@@ -202,5 +202,3 @@ Be among the first to secure your trade license with our exclusive presale offer
 </button>
 
 {% end %}
-
-</div>
