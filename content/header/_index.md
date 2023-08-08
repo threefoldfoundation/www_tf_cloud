@@ -4,10 +4,8 @@ description: "NEAR is on a mission to empower everyone to take back control of t
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/logo_placeholder1.png"
+  logoPath: "/images/logo_placeholder2.png"
   imgPath: ""
 ---
 
-- [OURZONE]("/")
-- [SIGN UP]("/signup")
-- [BLOG]("/blog")
+- [Blog]("/blog")
