@@ -1,12 +1,12 @@
-# OurPhone&trade;
+# OurWorld Freezone
 
 ## 
 
-![](./public/images/logo_placeholder1.png)
+![](./public/images/logo_placeholder2.png)
 
 ## About
 
-The official website of OurZone&trade;
+The official website of **OurWorld Freezone**
 
 Production(master branch) [www.ourworld.freezone.tf](https://www.ourzone.ourworld.tf/)
 
@@ -19,7 +19,7 @@ Last updated: March 2023
 
 Feel free to [create a new issue](https://github.com/ourworldfreezone/www_ourworld_freezone/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
 
-# Welcome to Ourworld Website Repository
+# Welcome to Ourworld Free Zone Website Repository
 
 - Website Name: Ourworld Free Zone
 - Brief Description: This is the official website of Ourworld Free Zone.
