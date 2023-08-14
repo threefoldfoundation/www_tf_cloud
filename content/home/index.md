@@ -16,7 +16,8 @@ weight: 1
 <br>
 <br>
 
-## **Welcome to** Ourworld Free Zone
+## **Welcome to** 
+# OurWorld <br>Free Zone 
 
 ### The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
 
@@ -108,7 +109,7 @@ For the entrepreneur, the digital nomad, or any company, we provide a revolution
 ## Our Benefits
 ### Where freedom meets efficiency
 
-With **Ourworld Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
+With **OurWorld Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
 
 <br>
 
@@ -193,7 +194,7 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 ## Company License Presale
 ### Secure your spot with a Special Offer Price
 
-Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with Ourworld Free Zone and kickstart your business journey with unprecedented advantages.
+Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Free Zone and kickstart your business journey with unprecedented advantages.
 
 <br>
 
