@@ -44,7 +44,7 @@ extra:
 
 <br>
 
-<h6><a target="_self" onclick="window.location.href='/info'">Wiki</a></h6>
+###### [Knowledgebase](https://ourworldfreezone.github.io/info_freezone/)
 
 <h6><a target="_self" onclick="window.location.href='/blog'">Blog</a></h6>
 
