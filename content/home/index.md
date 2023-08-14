@@ -1,5 +1,5 @@
 ---
-title: "OurWorld"
+title: "Ourworld Free Zone"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -157,7 +157,7 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 ![Image](./img/flexible.png#sm#mx-auto)
 #### Affordable & Flexible Company Licenses
-OurWorld offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
+Ourworld Free Zone offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
 
@@ -167,7 +167,7 @@ OurWorld offers cost-effective and flexible company licenses, making it easier t
 
 ![Image](./img/sovereign.png#sm#mx-auto)
 #### Sovereign Economic Jurisdiction 
-OurWorld empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+Ourworld Free Zone empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
 
 </div>
 
