@@ -9,5 +9,6 @@ extra:
 ---
 
 - [Info]("https://info.freezone.tf")
-- [Blog]("/Blog")
+- [Blog]("/blog")
+- [News]("/newsroom")
 - [Contact]("mailto:info@ourworld.tf")
