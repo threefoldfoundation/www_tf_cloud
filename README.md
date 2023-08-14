@@ -19,10 +19,10 @@ Last updated: March 2023
 
 Feel free to [create a new issue](https://github.com/ourworld-tsc/www_ourphone/issues) to report an error on the website, or if you have any suggestions on website improvements. 
 
-# Welcome to Ourworld Website Repository
+# Welcome to OurWorld Website Repository
 
-- Website Name: Ourworld
-- Brief Description: This is the official website of Ourworld.
+- Website Name: OurWorld
+- Brief Description: This is the official website of OurWorld.
 Last Updated: March 2023
 
 - Website URL: https://ourworld.tf/
