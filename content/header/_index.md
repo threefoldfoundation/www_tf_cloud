@@ -8,4 +8,6 @@ extra:
   imgPath: ""
 ---
 
-- [Blog]("/blog")
+- [Info]("https://info.freezone.tf")
+- [Blog]("/Blog")
+- [Contact]("mailto:info@ourworld.tf")
