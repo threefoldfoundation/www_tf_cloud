@@ -84,6 +84,24 @@ feed = true
 paginate_by = 2
 paginate_path = "blog-posts"
 
+[[taxonomies]]
+name = "partners-category"
+feed = true
+paginate_by = 6
+paginate_path = "partner-card"
+
+[[taxonomies]]
+name = "news-category"
+feed = true
+paginate_by = 6
+paginate_path = "news-card"
+
+[[taxonomies]]
+name = "memberships"
+feed = true
+paginate_by = 8
+paginate_path = "people/memberships"
+
 [extra]
 header_class = "customize"
 footer_class = "customize"
