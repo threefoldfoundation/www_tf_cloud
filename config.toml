@@ -70,7 +70,7 @@ paginate_path = "product-posts"
 name = "people"
 feed = true
 paginate_by = 9
-paginate_path = "people"a
+paginate_path = "people"
 
 [[taxonomies]]
 name = "roles"
