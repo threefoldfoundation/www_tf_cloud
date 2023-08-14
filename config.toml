@@ -67,12 +67,6 @@ paginate_by = 2
 paginate_path = "product-posts"
 
 [[taxonomies]]
-name = "people"
-feed = true
-paginate_by = 9
-paginate_path = "people"
-
-[[taxonomies]]
 name = "roles"
 feed = true
 paginate_by = 2
