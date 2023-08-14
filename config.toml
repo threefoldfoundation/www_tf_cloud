@@ -2,7 +2,7 @@
 base_url = "https://www2.freezone.ourworld.tf/"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "OurWorld Digital Free Zone"
+title = "OurWorld Free Zone"
 description="Accessible and affordable for all"
 
 # When set to "true", a feed is automatically generated.
