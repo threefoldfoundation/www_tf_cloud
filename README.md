@@ -1,7 +1,5 @@
 # OurWorld Freezone
 
-## 
-
 ![](../static/images/logo_placeholder2.png)
 
 ## About
