@@ -2,7 +2,7 @@
 
 ## 
 
-![](./public/images/logo_placeholder2.png)
+![](./static/images/logo_placeholder2.png)
 
 ## About
 
