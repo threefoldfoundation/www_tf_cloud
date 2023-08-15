@@ -12,11 +12,11 @@ jobs:
       uses: appleboy/ssh-action@master
       with:
         host: www2.freezone.ourworld.tf
-        username: webuser
+        username: ${{ secrets.TF_USER }}
         key: ${{ secrets.TF_SECRET }}
-        port: 34022
+        port: ${{ secrets.TF_PORT }}
         script: |
-          cd websites/www2/www_ourzone/
+          cd websites/www2/www_ourworld_freezone/
           git log -1
           git fetch
           git reset --hard origin/development
