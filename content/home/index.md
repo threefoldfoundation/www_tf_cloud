@@ -1,5 +1,5 @@
 ---
-title: "OurWorld"
+title: "Ourworld Free Zone"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -16,7 +16,8 @@ weight: 1
 <br>
 <br>
 
-## **Welcome to** OurWorld Digital Free Zone 
+## **Welcome to** 
+# OurWorld <br>Free Zone 
 
 ### The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
 
@@ -108,7 +109,7 @@ For the entrepreneur, the digital nomad, or any company, we provide a revolution
 ## Our Benefits
 ### Where freedom meets efficiency
 
-With **OurWorld Digital Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
+With **OurWorld Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
 
 <br>
 
@@ -156,7 +157,7 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 
 ![Image](./img/flexible.png#sm#mx-auto)
 #### Affordable & Flexible Company Licenses
-OurWorld offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
+Ourworld Free Zone offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
 
 </div>
 
@@ -166,7 +167,7 @@ OurWorld offers cost-effective and flexible company licenses, making it easier t
 
 ![Image](./img/sovereign.png#sm#mx-auto)
 #### Sovereign Economic Jurisdiction 
-OurWorld empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+Ourworld Free Zone empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
 
 </div>
 
@@ -193,7 +194,7 @@ Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower yo
 ## Company License Presale
 ### Secure your spot with a Special Offer Price
 
-Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Digital Free Zone and kickstart your business journey with unprecedented advantages.
+Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Free Zone and kickstart your business journey with unprecedented advantages.
 
 <br>
 

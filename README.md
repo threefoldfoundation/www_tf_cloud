@@ -1,34 +1,32 @@
-# OurPhone&trade;
+# OurWorld Freezone
 
-## 
-
-![](./public/images/logo_placeholder1.png)
+![](../static/images/logo_placeholder2.png)
 
 ## About
 
-The official website of OurZone&trade;
+The official website of **OurWorld Freezone**
 
-Production(master branch) [www.ourphone.ourworld.tf](https://www.ourzone.ourworld.tf/)
+Production(master branch) [www.ourworld.freezone.tf](https://www.ourzone.ourworld.tf/)
 
-Staging(developmentr branch) [www2.ourphone.ourworld.tf](https://www2.ourzone.ourworld.tf/)
+Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.ourzone.ourworld.tf/)
 
 
 Last updated: March 2023
 
 ## Contribution
 
-Feel free to [create a new issue](https://github.com/ourworld-tsc/www_ourphone/issues) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to [create a new issue](https://github.com/ourworldfreezone/www_ourworld_freezone/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
 
-# Welcome to Ourworld Website Repository
+# Welcome to Ourworld Free Zone Website Repository
 
-- Website Name: Ourworld
-- Brief Description: This is the official website of Ourworld.
+- Website Name: Ourworld Free Zone
+- Brief Description: This is the official website of Ourworld Free Zone.
 Last Updated: March 2023
 
-- Website URL: https://ourworld.tf/
+- Website URL: https://ourworld.freezone.tf/
 
 - For any suggestions or improvement ideas please 
-Create an issue on: https://github.com/threefoldfoundation/www_ourworld_tf/issues
+Create an issue on: https://github.com/ourworldfreezone/www_ourworld_freezone/issues/
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
