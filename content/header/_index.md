@@ -11,4 +11,5 @@ extra:
 - [Info]("https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html")
 - [News]("/newsroom")
 - [Blog]("/blog")
+- [Team]("/people")
 - [Contact]("mailto:info@ourworld.tf")
