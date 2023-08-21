@@ -14,7 +14,7 @@ extra:
 
 <br>
 
-###### [ThreeFold](https://incubaid.com)
+<a onclick="window.open('https://threefold.io', '_blank')"><h6>ThreeFold</h6></a>
 
 ###### [Incubaid](https://manual.grid.tf/threefold_token/buy_sell_tft/buy_sell_tft.html)
 
@@ -28,15 +28,16 @@ extra:
 
 <br>
 
-###### [OurWorld](https://ourworld.tf)
+<a onclick="window.open('https://ourworld.tf', '_blank')"><h6>OurWorld</h6></a>
 
-###### [Freezone](https://freezone.ourworld.tf)
+###### [Freezone](/)
 
-###### [OurPhone](https://ourphone.ourworld.tf/)
+<a onclick="window.open('https://ourphone.ourworld.tf/', '_blank')"><h6>OurPhone</h6></a>
 
-###### [OurParadise](https://ourparadise.ourworld.tf/)
+<a onclick="window.open('https://ourparadise.ourworld.tf/', '_blank')"><h6>OurParadise</h6></a>
 
-###### [OurNomads](https://ournomads.ourworld.tf/)
+<a onclick="window.open('https://ournomads.ourworld.tf/', '_blank')"><h6>OurNomads</h6></a>
+
 
 |||
 
@@ -44,15 +45,25 @@ extra:
 
 <br>
 
-###### [Knowledgebase](https://ourworldfreezone.github.io/info_freezone/)
+<a onclick="window.open('https://ourworldfreezone.github.io/info_freezone/', '_blank')"><h6>Knowledgebase</h6></a>
 
-<h6><a target="_self" onclick="window.location.href='/blog'">Blog</a></h6>
+###### [Blog](/blog)
 
-###### [Telegram](https://t.me/threefoldnews)
+<a onclick="window.open('https://t.me/threefoldnews', '_blank')"><h6>Telegram</h6></a>
 
-###### [Support](https://threefoldfaq.crisp.help/en/)
 
-###### [Github](https://github.com/ourworldfreezone)
+<a onclick="window.open('https://threefoldfaq.crisp.help/en/', '_blank')"><h6>Support</h6></a>
 
+
+<a onclick="window.open('https://github.com/ourworldfreezone', '_blank')"><h6>Github</h6></a>
 
 {% end %}
+
+
+<style>
+  a {
+cursor: pointer;
+
+  }
+  
+  </style>
