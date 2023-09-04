@@ -9,7 +9,5 @@ extra:
 ---
 
 - [About]("/about")
-- [Solutions]("/solutions")
-- [How It Works]("/how")
 - [Team]("/people")
 - [Contact]("mailto:info@ourworld.tf")

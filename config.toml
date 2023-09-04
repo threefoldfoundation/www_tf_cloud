@@ -1,9 +1,9 @@
 # The URL the site will be built for
-base_url = "https://www2.freezone.ourworld.tf/"
+base_url = "tbd"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "OurWorld Free Zone"
-description="Accessible and affordable for all"
+title = "TF Cloud"
+description="A transormative cloud solution"
 
 # When set to "true", a feed is automatically generated.
 # generate_feed = true

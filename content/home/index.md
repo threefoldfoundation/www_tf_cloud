@@ -1,5 +1,5 @@
 ---
-title: "Ourworld Free Zone"
+title: "TFCloud | Home"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -22,13 +22,11 @@ weight: 1
 
 # TFCloud
 
-#### A transformative cloud solution for a new digital era. Built by the team at ThreeFold.
+#### A transformative autonomous cloud solution for a new digital era. Built by ThreeFold.
 
 ThreeFold Cloud is more than a technological platform – it's a movement. A movement towards a digital future where ethics, community, and innovation coalesce to create a cloud that truly serves the greater good.
 
-<button onclick="/about">
-  Learn More
-</button>
+<button>[Learn More](/about)</button>
 
 </div>
 
@@ -41,10 +39,6 @@ ThreeFold Cloud is more than a technological platform – it's a movement. A mov
 ## Initial Solutions
 
 Meet the suite of initial solutions to be available on the ThreeFold Cloud.
-
-<button onclick="/solutions">
-  Learn More
-</button>
 
 <br>
 
@@ -59,6 +53,8 @@ Meet the suite of initial solutions to be available on the ThreeFold Cloud.
 #### Web Services
 Catering to the foundational needs of modern businesses and individuals, ThreeFold Cloud supports the deployment of websites and a variety of open-source applications.
 
+<button>[Learn](/)</button>
+
 </div>
 
 |||
@@ -70,6 +66,8 @@ Catering to the foundational needs of modern businesses and individuals, ThreeFo
 #### Private AI Clouds
 Own your AI model, and ensure it remains unbiased. Collaborate with peers, friends, or colleagues to create and control AI solutions that truly serve your needs without external influences.
 
+<button>[Learn](/)</button>
+
 </div>
 
 |||
@@ -80,6 +78,8 @@ Own your AI model, and ensure it remains unbiased. Collaborate with peers, frien
 
 #### Personal BTC & Lightning Nodes
 Allowing users to engage in faster, more scalable Bitcoin transactions. This is crucial as the demand for efficient Bitcoin transactions grows.
+
+<button>[Learn](/)</button>
 
 </div>
 
@@ -96,6 +96,8 @@ Allowing users to engage in faster, more scalable Bitcoin transactions. This is 
 #### Personal Blockchains
 Recognizing the growing importance of decentralized ledger technologies, TF Cloud provides the tools and infrastructure for uses to deploy their own blockchain solutions seamlessly.
 
+<button>[Learn](/)</button>
+
 </div>
 
 |||
@@ -105,7 +107,9 @@ Recognizing the growing importance of decentralized ledger technologies, TF Clou
 ![Image](./img/3bot.png#sm#mx-auto)
 
 #### Personal 3Bot
-Your digital "right hand," capable of managing a range of tasks. With 3Bot, deploying solutions on the cloud becomes a breeze, streamlining the process and ensuginr efficiency and reliability.
+Your digital "right hand," capable of managing a range of tasks. With 3Bot, deploying solutions on the cloud becomes a breeze, streamlining the process and ensuring efficiency and reliability.
+
+<button>[Learn](/)</button>
 
 </div>
 
@@ -118,6 +122,8 @@ Your digital "right hand," capable of managing a range of tasks. With 3Bot, depl
 #### Virtual Data Center
 The more advanced workloads, allowing people to deploy any IT workload on the grid using state of the art self-healing management techniques.
 
+<button>[Learn](/)</button>
+
 </div>
 
 {% end %}
@@ -128,7 +134,7 @@ The more advanced workloads, allowing people to deploy any IT workload on the gr
 
 ## Unique Features
 
-ThreeFold Cloud is revolutionizing the way we perceive and interact with cloud services.
+ThreeFold Cloud introduces a groundbreaking approach to autonomous cloud management, revolutionizing the way we perceive and interact with cloud services.
 
 <button onclick="/how">
   Learn More
