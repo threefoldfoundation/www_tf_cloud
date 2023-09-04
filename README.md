@@ -1,32 +1,32 @@
-# OurWorld Freezone
+# TF Cloud
 
 ![](../static/images/logo_placeholder2.png)
 
 ## About
 
-The official website of **OurWorld Freezone**
+The official website of **TF Cloud**
 
-Production(master branch) [www.ourworld.freezone.tf](https://www.ourzone.ourworld.tf/)
+Production(master branch) ... tbd
 
-Staging(developmentr branch) [www2.ourworld.freezone.tf](https://www2.ourzone.ourworld.tf/)
+Staging(development branch) ... tbd
 
 
-Last updated: March 2023
+Last updated: 04 Sep 2023
 
 ## Contribution
 
-Feel free to [create a new issue](https://github.com/ourworldfreezone/www_ourworld_freezone/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to [create a new issue](https://github.com/threefoldfoundation/www_tf_cloud/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
 
-# Welcome to Ourworld Free Zone Website Repository
+# Welcome to the TF Cloud Website Repository
 
-- Website Name: Ourworld Free Zone
-- Brief Description: This is the official website of Ourworld Free Zone.
-Last Updated: March 2023
+- Website Name: TF Cloud
+- Brief Description: This is the official website of the TF Cloud
+Last Updated: Sep 2023
 
-- Website URL: https://ourworld.freezone.tf/
+- Website URL: tbd
 
 - For any suggestions or improvement ideas please 
-Create an issue on: https://github.com/ourworldfreezone/www_ourworld_freezone/issues/
+Create an issue on: [https://github.com/ourworldfreezone/www_ourworld_freezone/issues/](https://github.com/threefoldfoundation/www_tf_cloud/issues/)
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
