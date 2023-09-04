@@ -4,12 +4,12 @@ description: "NEAR is on a mission to empower everyone to take back control of t
 insert_anchor_links: "left"
 template: "partials/header.html"
 extra:
-  logoPath: "/images/logo_placeholder2.png"
+  logoPath: "/images/tf_cloud_logo.png"
   imgPath: ""
 ---
 
-- [Info]("https://ourworldfreezone.github.io/info_freezone/intro/intro_readme.html")
-- [News]("/newsroom")
-- [Blog]("/blog")
+- [About]("/about")
+- [Solutions]("/solutions")
+- [How It Works]("/how")
 - [Team]("/people")
 - [Contact]("mailto:info@ourworld.tf")

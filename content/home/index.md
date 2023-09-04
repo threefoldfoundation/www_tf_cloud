@@ -11,94 +11,26 @@ weight: 1
 
 {% row(style="left" margin="none" reverse="rightreserve" padding="bottom") %}
 
+![placeholder](./img/cloud_home.png#mx-auto)
+
+|||
+
 <div class="px-4 md:px-16 lg:px-28">
 
 <br>
 <br>
 
-## **Welcome to** 
-# OurWorld <br>Free Zone 
+# TFCloud
 
-### The world's first 100% digital free zone, accessible and affordable for all. Removing complexity from doing business.
+#### A transformative cloud solution for a new digital era. Built by the team at ThreeFold.
 
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Take Part
+ThreeFold Cloud is more than a technological platform – it's a movement. A movement towards a digital future where ethics, community, and innovation coalesce to create a cloud that truly serves the greater good.
+
+<button onclick="/about">
+  Learn More
 </button>
 
 </div>
-
-<br>
-
-|||
-
-![placeholder](./img/home_sam.png#mx-auto)
-
-{% end %}
-
-<!-- section 2 (header) -->
-
-<div class="container mx-auto"> 
-
-{% row(style="center" margin="withContainer" padding="none") %}
-
-## **Why** Zanzibar?
-
-### A Unique Business Landscape
-
-{% end %}
-
-{% row(style="center" margin="narrow" padding="bottom") %}
-
-<div class="mx-4 my-4">
-
-![Image](./img/strategic.jpeg#md#mx-auto)
-
-#### Strategic Location
-Positioned at the crossroads of Africa and the Indian Ocean, Zanzibar has a rich and diverse culture and offers easy access to regional and international markets.
-
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/economicgrowth.jpeg#md#mx-auto)
-
-#### Rapid Economic Growth
-In recent years, Tanzania's GDP has been growing at an average rate of around 6-7% annually, showcasing the country's strong economic performance.
-</div>
-
-|||
-
-<div class="mx-4 my-4">
-
-![Image](./img/president.jpeg#md#mx-auto)
-
-#### Business-Friendly Policies
-A World Bank report ranked Tanzania as one of the top 10 most improved economies globally in 2020, and Zanzibar's President has expressed a willingness to adapt its regulations and policies.
-
-</div>
-
-{% end %}
-
-<!-- section 2 security -->
-
-{% row(style="left" margin="withContainer" padding="bottom") %}
-
-![placeholder](./img/digitanomad.png#mx-auto)
-
-|||
-
-## Simple. Streamlined.
-
-### An affordable way to operate your business, for anyone, from anywhere
-
-For the entrepreneur, the digital nomad, or any company, we provide a revolutionary platform where you can obtain a digital company license, a bank account supporting both fiat and cryptocurrencies, and handle your legal requirements and taxes, all within a single, streamlined platform. <br>
- <br>Say goodbye to complexities and hello to a new era of simplicity and efficiency, empowering your business to thrive like never before.<br><br>
-
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Sign Up Now
-</button>
 
 {% end %}
 
@@ -106,10 +38,101 @@ For the entrepreneur, the digital nomad, or any company, we provide a revolution
 
 {% row(style="center" margin="narrow" padding="none") %}
 
-## Our Benefits
-### Where freedom meets efficiency
+## Initial Solutions
 
-With **OurWorld Free Zone**, you can embark on your business journey with ease, <br>leveraging our innovative technology to streamline every step of the process.
+Meet the suite of initial solutions to be available on the ThreeFold Cloud.
+
+<button onclick="/solutions">
+  Learn More
+</button>
+
+<br>
+
+{% end %}
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/web_services.png#sm#mx-auto)
+
+#### Web Services
+Catering to the foundational needs of modern businesses and individuals, ThreeFold Cloud supports the deployment of websites and a variety of open-source applications.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/personal_ai.png#sm#mx-auto)
+
+#### Private AI Clouds
+Own your AI model, and ensure it remains unbiased. Collaborate with peers, friends, or colleagues to create and control AI solutions that truly serve your needs without external influences.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/personal_btc.png#sm#mx-auto)
+
+#### Personal BTC & Lightning Nodes
+Allowing users to engage in faster, more scalable Bitcoin transactions. This is crucial as the demand for efficient Bitcoin transactions grows.
+
+</div>
+
+{% end %}
+
+<br>
+
+{% row(style="center" margin="narrow" padding="bottom") %}
+
+<div class="mx-4 my-4">
+
+![Image](./img/personal_blockchains.png#sm#mx-auto)
+
+#### Personal Blockchains
+Recognizing the growing importance of decentralized ledger technologies, TF Cloud provides the tools and infrastructure for uses to deploy their own blockchain solutions seamlessly.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/3bot.png#sm#mx-auto)
+
+#### Personal 3Bot
+Your digital "right hand," capable of managing a range of tasks. With 3Bot, deploying solutions on the cloud becomes a breeze, streamlining the process and ensuginr efficiency and reliability.
+
+</div>
+
+|||
+
+<div class="mx-4 my-4">
+
+![Image](./img/virtual_data_center.png#sm#mx-auto)
+
+#### Virtual Data Center
+The more advanced workloads, allowing people to deploy any IT workload on the grid using state of the art self-healing management techniques.
+
+</div>
+
+{% end %}
+
+<!-- section 3 features title -->
+
+{% row(style="center" margin="narrow" padding="none") %}
+
+## Unique Features
+
+ThreeFold Cloud is revolutionizing the way we perceive and interact with cloud services.
+
+<button onclick="/how">
+  Learn More
+</button>
 
 <br>
 
@@ -121,8 +144,8 @@ With **OurWorld Free Zone**, you can embark on your business journey with ease, 
 
 ![Image](./img/automated.png#sm#mx-auto)
 
-#### Fully Automated Onboarding 
-Our automated onboarding process, will ensure compliance with KYC and AML regulations at ease and efficiency.
+#### Chat Management
+The primary mode of interaction for most users will be the chat interface. This allows users to communicate with their 3Bot using conversational language. The system will be multilingual, accommodating users from various linguistic backgrounds.
 
 </div>
 
@@ -132,8 +155,8 @@ Our automated onboarding process, will ensure compliance with KYC and AML regula
 
 ![Image](./img/compatible.png#sm#mx-auto)
 
-#### Banking & Web3 Compatible
-Seamlessly manage both fiat and digital currencies with our comprehensive banking solutions compatible with Web3 technologies.
+#### 3Script
+Beyond conventional languages, ThreeFold Cloud introduces 3Script, a high-level cloud language. It's designed to be straightforward, with basic constructs that simplify the process of setting up and managing your cloud resources.
 
 </div>
 
@@ -142,8 +165,9 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 <div class="mx-4 my-4">
 
 ![Image](./img/legal.png#sm#mx-auto)
-#### Built-in Legal & Tax Settlement
- Experience hassle-free business operations, as we provide built-in legal and tax settlement services, simplifying legal obligations.
+
+#### GPUs
+With more than 30,000 GPUs available on the ThreeFold Grid, the underlying infrastructure behind TF Cloud, ...
 
 </div>
 
@@ -156,8 +180,9 @@ Seamlessly manage both fiat and digital currencies with our comprehensive bankin
 <div class="mx-4 my-4">
 
 ![Image](./img/flexible.png#sm#mx-auto)
-#### Affordable & Flexible Company Licenses
-Ourworld Free Zone offers cost-effective and flexible company licenses, making it easier to kickstart your entrepreneurial journey.
+
+#### CPUs
+The ThreeFold Grid is equipped with 40,000+ vCPUs, ...
 
 </div>
 
@@ -166,8 +191,9 @@ Ourworld Free Zone offers cost-effective and flexible company licenses, making i
 <div class="mx-4 my-4">
 
 ![Image](./img/sovereign.png#sm#mx-auto)
-#### Sovereign Economic Jurisdiction 
-Ourworld Free Zone empowers businesses to operate within an independent economic environment, fostering growth and prosperity.
+
+#### 3Bot
+Each user has their own 3Bot, a personal digital asssitant to oversee your cloud workloads. Only you, via your 3Bot, have access to your workloads, ensuring both privacy and ease of use.
 
 </div>
 
@@ -176,50 +202,10 @@ Ourworld Free Zone empowers businesses to operate within an independent economic
 <div class="mx-4 my-4">
 
 ![Image](./img/tech.png#sm#mx-auto)
-#### Powered by Data Sovereign Tech
-Your Privacy, Your Data, Your Security. Our Quantum Safe Storage will empower you to safeguard your digital information.
+
+#### Integrated DNS
+TF Cloud comes with an integrated Domain Name System, meaning ...
 
 </div>
-
-{% end %}
-
-<!-- section 5 subscription -->
-
-{% row(style="left" margin="withContainer" padding="both") %}
-
-![](./img/presale.png#mx-auto)
-
-|||
-
-## Company License Presale
-### Secure your spot with a Special Offer Price
-
-Be among the first to secure your company license with our exclusive presale offer at a special price. Embrace the future of digital entrepreneurship with OurWorld Free Zone and kickstart your business journey with unprecedented advantages.
-
-<br>
-
-<button onclick="ml_account('webforms', '5959683', 'u7m4u4', 'show')">
-  Join the Presale
-</button>
-
-{% end %}
-
-<!-- section 6 in the news -->
-
-{% row(style="center" padding="bottom") %}
-
-[![citizen](img/citizen.png#small)](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-seeks-to-become-digital-freezone--4316150)
-
-|||
-
-[![biafrica](img/biafrica.png#small)](https://africa.businessinsider.com/local/markets/zanzibar-is-looking-to-explore-other-economic-options-outside-of-tourism/bxxl3wh)
-
-|||
-
-[![ippmedia](img/ippmedia.png#small)](https://www.ippmedia.com/en/features/mwinyi-keen-establish-digital-hub-isles)
-
-|||
-
-[![dailynews](img/dailynews.png#small)](https://dailynews.co.tz/mwinyi-commits-to-improvement-of-digital-spaces/)
 
 {% end %}
