@@ -26,7 +26,7 @@ Last Updated: Sep 2023
 - Website URL: tbd
 
 - For any suggestions or improvement ideas please 
-Create an issue on: [https://github.com/ourworldfreezone/www_ourworld_freezone/issues/](https://github.com/threefoldfoundation/www_tf_cloud/issues/)
+Create an issue on: [https://github.com/threefoldfoundation/www_tf_cloud/issues/](https://github.com/threefoldfoundation/www_tf_cloud/issues/)
 
 ## Administrators
 [ThreeFold's Web Admins](https://github.com/orgs/threefoldfoundation/teams/team_web_admin)
