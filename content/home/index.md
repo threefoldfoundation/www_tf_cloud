@@ -136,9 +136,7 @@ The more advanced workloads, allowing people to deploy any IT workload on the gr
 
 ThreeFold Cloud introduces a groundbreaking approach to autonomous cloud management, revolutionizing the way we perceive and interact with cloud services.
 
-<button onclick="/how">
-  Learn More
-</button>
+<button>[Learn More](/)</button>
 
 <br>
 
@@ -148,7 +146,7 @@ ThreeFold Cloud introduces a groundbreaking approach to autonomous cloud managem
 
 <div class="mx-4 my-4">
 
-![Image](./img/automated.png#sm#mx-auto)
+![Image](./img/chat.png#sm#mx-auto)
 
 #### Chat Management
 The primary mode of interaction for most users will be the chat interface. This allows users to communicate with their 3Bot using conversational language. The system will be multilingual, accommodating users from various linguistic backgrounds.
@@ -159,7 +157,7 @@ The primary mode of interaction for most users will be the chat interface. This 
 
 <div class="mx-4 my-4">
 
-![Image](./img/compatible.png#sm#mx-auto)
+![Image](./img/script.png#sm#mx-auto)
 
 #### 3Script
 Beyond conventional languages, ThreeFold Cloud introduces 3Script, a high-level cloud language. It's designed to be straightforward, with basic constructs that simplify the process of setting up and managing your cloud resources.
@@ -170,7 +168,7 @@ Beyond conventional languages, ThreeFold Cloud introduces 3Script, a high-level 
 
 <div class="mx-4 my-4">
 
-![Image](./img/legal.png#sm#mx-auto)
+![Image](./img/gpu.png#sm#mx-auto)
 
 #### GPUs
 With more than 30,000 GPUs available on the ThreeFold Grid, the underlying infrastructure behind TF Cloud, ...
@@ -185,7 +183,7 @@ With more than 30,000 GPUs available on the ThreeFold Grid, the underlying infra
 
 <div class="mx-4 my-4">
 
-![Image](./img/flexible.png#sm#mx-auto)
+![Image](./img/cpu.png#sm#mx-auto)
 
 #### CPUs
 The ThreeFold Grid is equipped with 40,000+ vCPUs, ...
@@ -196,7 +194,7 @@ The ThreeFold Grid is equipped with 40,000+ vCPUs, ...
 
 <div class="mx-4 my-4">
 
-![Image](./img/sovereign.png#sm#mx-auto)
+![Image](./img/3bot1.png#sm#mx-auto)
 
 #### 3Bot
 Each user has their own 3Bot, a personal digital asssitant to oversee your cloud workloads. Only you, via your 3Bot, have access to your workloads, ensuring both privacy and ease of use.
@@ -207,7 +205,7 @@ Each user has their own 3Bot, a personal digital asssitant to oversee your cloud
 
 <div class="mx-4 my-4">
 
-![Image](./img/tech.png#sm#mx-auto)
+![Image](./img/dns.png#sm#mx-auto)
 
 #### Integrated DNS
 TF Cloud comes with an integrated Domain Name System, meaning ...
