@@ -5,19 +5,48 @@
 {% set zolaVer = '0.13.0' %}
 
 <head>
-  <meta name="generator" content="Zola v.{{ zolaVer }} - getzola.org" />
-
+  <link rel="icon" type="image/x-icon" href="{{ get_url(path='images/favicon.png')}}">
   {% block title %}
-  {% if current_path == '/' %}
   <title>{{ config.title }}</title>
-  <meta property="og:title" content="{{ config.title }}" />
-  {% else %}
-  <title>{% if section.title %}{{ section.title }} &bull; {% endif %}{% if page.title %}{{ page.title }} &bull; {% endif %}{{ config.title }}</title>
-  <meta property="og:title" content="{% if section.title %}{{ section.title }} &bull; {% endif %}{% if page.title %}{{ page.title }} &bull; {% endif %}{{ config.title }}" />
-  {% endif %}
-  {% endblock title %}
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ config.base_url }}" />
 
-  <!-- Required meta categories -->
+  {% if section.title %}
+  <title>{{ section.title }}</title>
+  <meta property="og:title" content="{{ section.title }}" />
+  {% elif page.title %}
+  <title>{{ page.title }}</title>
+  <meta property="og:title" content="{{ page.title }}" />
+  {%endif%}
+
+  {%if section.extra.imgPath %}
+  <meta name="image" content="{{section.permalink}}{{ section.extra.imgPath }}" />
+  <meta property="og:image" content="{{section.permalink}}{{ section.extra.imgPath }}" />
+  <meta property="twitter:image" content="{{section.permalink}}{{ section.extra.imgPath }}" />
+  {% elif page.extra.imgPath %}
+  <meta name="image" content="{{page.permalink}}{{ page.extra.imgPath }}" />
+  <meta property="og:image" content="{{page.permalink}}{{ page.extra.imgPath }}" />
+  <meta property="twitter:image" content="{{page.permalink}}{{ page.extra.imgPath }}" />
+  {%endif%}
+  
+  {%if section.description%}
+  <meta name="description" content="{{ section.description }}" />
+  <meta property="og:description" content="{{ section.description }}" />
+  <meta property="twitter:description" content="{{ section.description }}" />
+  {%elif page.description%}
+  <meta name="description" content="{{ page.description }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="twitter:description" content="{{ page.description }}" />
+  {%endif%}
+  
+  <meta name="twitter:card" content="summary" />
+  
+  {% endblock title %}
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css" />
+
+
+  <!-- Required meta tags -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -36,18 +65,34 @@
   <!-- **** CONCLUSION, favicons **** -->
 
   <!-- CSS/SCSS -->
-  <link rel="stylesheet" href="{{ get_url(path="css/index.css", trailing_slash=false, cachebust=true) | safe }}" />  <style>@-moz-document url-prefix() {.lazy:-moz-loading {visibility:hidden;}}.ieOnly {display: none;}@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {.ieOnly {display: block;}}</style>
-  
-  <!-- MailerLite Universal -->
-<script>
-  (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
-  var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
-  f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
-  var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
-  _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
-  
-  var ml_account = ml('accounts', '1778010', 'x2d3d9f8n1', 'load');
-  </script>
-  <!-- End MailerLite Universal -->
+  <link rel="stylesheet" href="{{ get_url(path="css/index.css", trailing_slash=false, cachebust=true) | safe }}" />
+  <style>
+    .space-x-10>:not([hidden])~:not([hidden]){
+      margin-left: calc(1.5rem*calc(1 - var(--tw-space-x-reverse)))!important;
+    }
+    @-moz-document url-prefix() {
+      .lazy:-moz-loading {
+        visibility: hidden;
+      }
+    }
 
+    .ieOnly {
+      display: none;
+    }
+
+    @media all and (-ms-high-contrast: none),
+    (-ms-high-contrast: active) {
+      .ieOnly {
+        display: block;
+      }
+    }
+  @media (min-width: 640px){
+      .sm\:space-x-4>:not([hidden])~:not([hidden]){
+      margin-left: calc(2rem*calc(1 - var(--tw-space-x-reverse)))!important;
+      }
+  }
+  </style>
+  <script type='text/javascript'
+    src='https://platform-api.sharethis.com/js/sharethis.js#property=62556aac80366d0019fc1af2&product=sop'
+    async='async'></script>
 </head>

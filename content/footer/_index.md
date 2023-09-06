@@ -4,7 +4,7 @@ description: ""
 insert_anchor_links: "left"
 template: "partials/footer.html"
 extra:
-  logoPath: "images/tf_cloud_logo_small.png"
+  logoPath: "images/tf_cloud_logo.png"
   socialLinks: { Github: "https://github.com/ourworldfreezone", Twitter: "https://twitter.com/threefold_io", Telegram: "https://t.me/threefoldnews"  }
 ---
 
@@ -12,7 +12,7 @@ extra:
 
 ##### TF Cloud
 
-<br>
+
 
 ###### [About](/about)
 
@@ -26,7 +26,7 @@ extra:
 
 ##### Built on TF Grid
 
-<br>
+
 
 <a onclick="window.open('https://threefold.io', '_blank')"><h6>Website</h6></a>
 

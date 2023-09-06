@@ -10,4 +10,4 @@ extra:
 
 - [About]("/about")
 - [Team]("/people")
-- [Contact]("mailto:info@ourworld.tf")
+

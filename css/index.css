@@ -388,6 +388,9 @@ header {
     padding: 80px 0;
   }
 
+  footer {
+    text-align: center;
+ }
   /* h2 {
     font-size: 3rem;
   } */
