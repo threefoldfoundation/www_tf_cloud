@@ -15,7 +15,7 @@ Last updated: 04 Sep 2023
 
 ## Contribution
 
-Feel free to [create a new issue](https://github.com/threefoldfoundation/www_tf_cloud/issues/) to report an error on the website, or if you have any suggestions on website improvements. 
+Feel free to[create a new issue](https://git.ourworld.tf/tfgrid/circle_web_presence/issues) to report an error on the website, or if you have any suggestions on website improvements. 
 
 # Welcome to the TF Cloud Website Repository
 
